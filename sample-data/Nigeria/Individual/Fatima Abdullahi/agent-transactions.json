@@ -1,0 +1,67 @@
+[
+  {
+    "transactionId": "txn-agt-ng-in-001-001",
+    "referenceNumber": "CI20260305001",
+    "transactionType": "Cash In",
+    "customerPhone": "+2348444000001",
+    "customerName": "Musa Ibrahim",
+    "amount": 32000.0,
+    "currency": "NGN",
+    "fee": 160.0,
+    "commission": 480.0,
+    "status": "Completed",
+    "transactionDate": "2026-03-05T08:10:00"
+  },
+  {
+    "transactionId": "txn-agt-ng-in-001-002",
+    "referenceNumber": "CO20260305002",
+    "transactionType": "Cash Out",
+    "customerPhone": "+2348444000002",
+    "customerName": "Zainab Sule",
+    "amount": 22000.0,
+    "currency": "NGN",
+    "fee": 176.0,
+    "commission": 330.0,
+    "status": "Completed",
+    "transactionDate": "2026-03-05T09:00:00"
+  },
+  {
+    "transactionId": "txn-agt-ng-in-001-003",
+    "referenceNumber": "AT20260305003",
+    "transactionType": "Airtime",
+    "customerPhone": "+2348444000003",
+    "customerName": "Musa Ibrahim",
+    "amount": 1000.0,
+    "currency": "NGN",
+    "fee": 0.0,
+    "commission": 15.0,
+    "status": "Completed",
+    "transactionDate": "2026-03-05T10:00:00"
+  },
+  {
+    "transactionId": "txn-agt-ng-in-001-004",
+    "referenceNumber": "CI20260304001",
+    "transactionType": "Cash In",
+    "customerPhone": "+2348444000004",
+    "customerName": "Zainab Sule",
+    "amount": 48000.0,
+    "currency": "NGN",
+    "fee": 240.0,
+    "commission": 720.0,
+    "status": "Completed",
+    "transactionDate": "2026-03-04T08:30:00"
+  },
+  {
+    "transactionId": "txn-agt-ng-in-001-005",
+    "referenceNumber": "CO20260303001",
+    "transactionType": "Cash Out",
+    "customerPhone": "+2348444000005",
+    "customerName": "Musa Ibrahim",
+    "amount": 35000.0,
+    "currency": "NGN",
+    "fee": 280.0,
+    "commission": 525.0,
+    "status": "Completed",
+    "transactionDate": "2026-03-03T09:00:00"
+  }
+]

@@ -1,0 +1,51 @@
+{
+  "agentId": "AGT-ZM-KI-001",
+  "agentCode": "KIOSK-LUS-001",
+  "agentName": "Chileshe Mutale",
+  "country": "Zambia",
+  "institutionType": "Kiosk",
+  "institutionName": "Zampost Kiosk",
+  "currency": "ZMW",
+  "period": "2026-Q1",
+  "revenue": {
+    "cashInFees": 8000.0,
+    "cashOutFees": 5500.0,
+    "billPaymentFees": 0.0,
+    "airtimeSales": 1200.0,
+    "commissions": 18500.0,
+    "insurancePremiums": 0.0,
+    "total": 33200.0
+  },
+  "expenses": {
+    "floatManagementCosts": 1200.0,
+    "operationalCosts": 800.0,
+    "staffCosts": 2500.0,
+    "rentalCosts": 1000.0,
+    "total": 5500.0
+  },
+  "profit": {
+    "grossProfit": 27700.0,
+    "netProfit": 27700.0,
+    "profitMarginPercent": 83.43
+  },
+  "monthlyBreakdown": [
+    {
+      "month": "Jan",
+      "revenue": 10300.0,
+      "expenses": 1700.0,
+      "profit": 8600.0
+    },
+    {
+      "month": "Feb",
+      "revenue": 11000.0,
+      "expenses": 1800.0,
+      "profit": 9200.0
+    },
+    {
+      "month": "Mar",
+      "revenue": 11900.0,
+      "expenses": 2000.0,
+      "profit": 9900.0
+    }
+  ]
+}

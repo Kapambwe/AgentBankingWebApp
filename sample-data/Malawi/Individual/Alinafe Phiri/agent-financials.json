@@ -1,0 +1,51 @@
+{
+  "agentId": "AGT-MW-IN-001",
+  "agentCode": "IND-LIL-001",
+  "agentName": "Alinafe Phiri",
+  "country": "Malawi",
+  "institutionType": "Individual",
+  "institutionName": "Alinafe Phiri",
+  "currency": "MWK",
+  "period": "2026-Q1",
+  "revenue": {
+    "cashInFees": 48000.0,
+    "cashOutFees": 35000.0,
+    "billPaymentFees": 0.0,
+    "airtimeSales": 8000.0,
+    "commissions": 110000.0,
+    "insurancePremiums": 0.0,
+    "total": 201000.0
+  },
+  "expenses": {
+    "floatManagementCosts": 7500.0,
+    "operationalCosts": 3800.0,
+    "staffCosts": 0.0,
+    "rentalCosts": 0.0,
+    "total": 11300.0
+  },
+  "profit": {
+    "grossProfit": 189700.0,
+    "netProfit": 189700.0,
+    "profitMarginPercent": 94.38
+  },
+  "monthlyBreakdown": [
+    {
+      "month": "Jan",
+      "revenue": 60000.0,
+      "expenses": 3800.0,
+      "profit": 56200.0
+    },
+    {
+      "month": "Feb",
+      "revenue": 64000.0,
+      "expenses": 3800.0,
+      "profit": 60200.0
+    },
+    {
+      "month": "Mar",
+      "revenue": 77000.0,
+      "expenses": 3700.0,
+      "profit": 73300.0
+    }
+  ]
+}

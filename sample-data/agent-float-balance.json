@@ -1,0 +1,13 @@
+{
+  "agentId": "AGT-001",
+  "agentCode": "MTN-LSK-001",
+  "currency": "ZMW",
+  "currentBalance": 18500.00,
+  "minimumBalance": 2000.00,
+  "maximumBalance": 100000.00,
+  "dailyCashInUsed": 12400.00,
+  "dailyCashOutUsed": 8200.00,
+  "dailyCashInLimit": 50000.00,
+  "dailyCashOutLimit": 30000.00,
+  "lastUpdated": "2026-03-05T09:45:00"
+}

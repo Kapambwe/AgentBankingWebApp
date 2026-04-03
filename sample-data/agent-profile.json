@@ -1,0 +1,29 @@
+{
+  "agentId": "AGT-001",
+  "agentCode": "MTN-LSK-001",
+  "agentName": "John Banda",
+  "businessName": "Banda General Store",
+  "agentType": 1,
+  "status": 0,
+  "phoneNumber": "+260977123456",
+  "email": "banda.store@example.com",
+  "location": "Lusaka, Zambia",
+  "country": "Zambia",
+  "currency": "ZMW",
+  "dailyCashInLimit": 50000.00,
+  "dailyCashOutLimit": 30000.00,
+  "transactionLimit": 5000.00,
+  "bankName": "First National Bank Zambia",
+  "settlementAccount": "1001234567",
+  "onboardedDate": "2025-03-05T00:00:00",
+  "commissionRate": 1.5,
+  "authorisedServices": [
+    "Cash In",
+    "Cash Out",
+    "Bill Payment",
+    "Airtime Purchase",
+    "Balance Inquiry",
+    "Mini Statement",
+    "Account Opening"
+  ]
+}

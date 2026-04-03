@@ -1,0 +1,93 @@
+[
+  {
+    "transactionId": "txn-agt-zm-ins-001-001",
+    "referenceNumber": "IP20260305001",
+    "transactionType": "Insurance Premium",
+    "customerPhone": "+260966700001",
+    "customerName": "Mumba Mwanza",
+    "amount": 3500.0,
+    "currency": "ZMW",
+    "fee": 35.0,
+    "commission": 70.0,
+    "status": "Completed",
+    "transactionDate": "2026-03-05T08:00:00"
+  },
+  {
+    "transactionId": "txn-agt-zm-ins-001-002",
+    "referenceNumber": "CI20260305002",
+    "transactionType": "Cash In",
+    "customerPhone": "+260966700002",
+    "customerName": "Chileshe Mwape",
+    "amount": 8000.0,
+    "currency": "ZMW",
+    "fee": 40.0,
+    "commission": 160.0,
+    "status": "Completed",
+    "transactionDate": "2026-03-05T08:30:00"
+  },
+  {
+    "transactionId": "txn-agt-zm-ins-001-003",
+    "referenceNumber": "IP20260305003",
+    "transactionType": "Insurance Premium",
+    "customerPhone": "+260966700003",
+    "customerName": "Nsama Bwalya",
+    "amount": 5200.0,
+    "currency": "ZMW",
+    "fee": 52.0,
+    "commission": 104.0,
+    "status": "Completed",
+    "transactionDate": "2026-03-05T09:00:00"
+  },
+  {
+    "transactionId": "txn-agt-zm-ins-001-004",
+    "referenceNumber": "CO20260305004",
+    "transactionType": "Cash Out",
+    "customerPhone": "+260966700004",
+    "customerName": "Lubosi Mutale",
+    "amount": 6500.0,
+    "currency": "ZMW",
+    "fee": 52.0,
+    "commission": 130.0,
+    "status": "Completed",
+    "transactionDate": "2026-03-05T09:30:00"
+  },
+  {
+    "transactionId": "txn-agt-zm-ins-001-005",
+    "referenceNumber": "IP20260305005",
+    "transactionType": "Insurance Premium",
+    "customerPhone": "+260966700005",
+    "customerName": "Kunda Zulu",
+    "amount": 2800.0,
+    "currency": "ZMW",
+    "fee": 28.0,
+    "commission": 56.0,
+    "status": "Completed",
+    "transactionDate": "2026-03-05T10:00:00"
+  },
+  {
+    "transactionId": "txn-agt-zm-ins-001-006",
+    "referenceNumber": "IP20260304001",
+    "transactionType": "Insurance Premium",
+    "customerPhone": "+260966700006",
+    "customerName": "Chileshe Mwape",
+    "amount": 4100.0,
+    "currency": "ZMW",
+    "fee": 41.0,
+    "commission": 82.0,
+    "status": "Completed",
+    "transactionDate": "2026-03-04T08:00:00"
+  },
+  {
+    "transactionId": "txn-agt-zm-ins-001-007",
+    "referenceNumber": "CI20260304002",
+    "transactionType": "Cash In",
+    "customerPhone": "+260966700007",
+    "customerName": "Mumba Mwanza",
+    "amount": 9000.0,
+    "currency": "ZMW",
+    "fee": 45.0,
+    "commission": 180.0,
+    "status": "Completed",
+    "transactionDate": "2026-03-04T09:00:00"
+  }
+]

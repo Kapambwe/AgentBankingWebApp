@@ -1,0 +1,28 @@
+{
+  "agentId": "AGT-UG-MM-001",
+  "agentCode": "MTN-UG-ENT-001",
+  "agentName": "Ssali Kiwanuka",
+  "businessName": "Kiwanuka MoMo Services",
+  "agentType": 4,
+  "status": 0,
+  "phoneNumber": "+256712456789",
+  "email": "ssali.kiwanuka@example.co.ug",
+  "location": "Entebbe, Uganda",
+  "country": "Uganda",
+  "currency": "UGX",
+  "dailyCashInLimit": 12000000.00,
+  "dailyCashOutLimit": 8000000.00,
+  "transactionLimit": 1500000.00,
+  "bankName": "MTN Uganda",
+  "settlementAccount": "9100987654",
+  "onboardedDate": "2024-08-10T00:00:00",
+  "commissionRate": 1.5,
+  "authorisedServices": [
+    "Cash In",
+    "Cash Out",
+    "Bill Payment",
+    "Airtime Purchase",
+    "Balance Inquiry",
+    "Mini Statement"
+  ]
+}

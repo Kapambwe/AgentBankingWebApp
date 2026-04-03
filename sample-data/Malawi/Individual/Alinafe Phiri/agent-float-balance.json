@@ -1,0 +1,13 @@
+{
+  "agentId": "AGT-MW-IN-001",
+  "agentCode": "IND-LIL-001",
+  "currency": "MWK",
+  "currentBalance": 195000.0,
+  "minimumBalance": 20000.0,
+  "maximumBalance": 1200000.0,
+  "dailyCashInUsed": 124000.0,
+  "dailyCashOutUsed": 82000.0,
+  "dailyCashInLimit": 600000.0,
+  "dailyCashOutLimit": 380000.0,
+  "lastUpdated": "2026-03-05T10:00:00"
+}

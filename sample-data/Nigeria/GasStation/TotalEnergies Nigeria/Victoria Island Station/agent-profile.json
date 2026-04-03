@@ -1,0 +1,27 @@
+{
+  "agentId": "AGT-NG-GS-001",
+  "agentCode": "GAS-LAG-001",
+  "agentName": "Victoria Island Station",
+  "businessName": "TotalEnergies Nigeria - Victoria Island Station",
+  "agentType": 6,
+  "status": 0,
+  "phoneNumber": "+2348070005001",
+  "email": "total.vi@example.ng",
+  "location": "Victoria Island, Lagos, Nigeria",
+  "country": "Nigeria",
+  "currency": "NGN",
+  "dailyCashInLimit": 6000000.0,
+  "dailyCashOutLimit": 4000000.0,
+  "transactionLimit": 600000.0,
+  "bankName": "Stanbic IBTC Bank Nigeria",
+  "settlementAccount": "3060300005",
+  "onboardedDate": "2024-01-10T00:00:00",
+  "commissionRate": 1.0,
+  "authorisedServices": [
+    "Cash In",
+    "Cash Out",
+    "Bill Payment",
+    "Airtime Purchase",
+    "Balance Inquiry"
+  ]
+}

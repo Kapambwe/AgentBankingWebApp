@@ -1,0 +1,26 @@
+{
+  "agentId": "AGT-KE-IN-001",
+  "agentCode": "IND-ELD-001",
+  "agentName": "Chebet Mutai",
+  "businessName": "Chebet Mutai",
+  "agentType": 0,
+  "status": 0,
+  "phoneNumber": "+254744200001",
+  "email": "chebet.mutai@example.co.ke",
+  "location": "Eldoret Town, Uasin Gishu, Kenya",
+  "country": "Kenya",
+  "currency": "KES",
+  "dailyCashInLimit": 120000.0,
+  "dailyCashOutLimit": 80000.0,
+  "transactionLimit": 12000.0,
+  "bankName": "Family Bank Kenya",
+  "settlementAccount": "0080200004",
+  "onboardedDate": "2024-06-01T00:00:00",
+  "commissionRate": 1.5,
+  "authorisedServices": [
+    "Cash In",
+    "Cash Out",
+    "Airtime Purchase",
+    "Balance Inquiry"
+  ]
+}

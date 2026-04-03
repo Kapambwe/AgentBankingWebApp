@@ -1,0 +1,27 @@
+{
+  "agentId": "AGT-UG-SH-001",
+  "agentCode": "SHOP-ENT-001",
+  "agentName": "Moses Kiwanuka",
+  "businessName": "Kiwanuka Grocery - Moses Kiwanuka",
+  "agentType": 1,
+  "status": 0,
+  "phoneNumber": "+256722200001",
+  "email": "moses.kiwanuka@example.co.ug",
+  "location": "Entebbe Town, Uganda",
+  "country": "Uganda",
+  "currency": "UGX",
+  "dailyCashInLimit": 8000000.0,
+  "dailyCashOutLimit": 5500000.0,
+  "transactionLimit": 800000.0,
+  "bankName": "Housing Finance Bank Uganda",
+  "settlementAccount": "9200200003",
+  "onboardedDate": "2024-05-05T00:00:00",
+  "commissionRate": 1.5,
+  "authorisedServices": [
+    "Cash In",
+    "Cash Out",
+    "Bill Payment",
+    "Airtime Purchase",
+    "Balance Inquiry"
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "agentId": "AGT-UG-IN-001",
+  "agentCode": "IND-KLA-001",
+  "agentName": "Amina Nakato",
+  "country": "Uganda",
+  "institutionType": "Individual",
+  "institutionName": "Amina Nakato",
+  "currency": "UGX",
+  "period": "2026-Q1",
+  "revenue": {
+    "cashInFees": 360000.0,
+    "cashOutFees": 264000.0,
+    "billPaymentFees": 0.0,
+    "airtimeSales": 60000.0,
+    "commissions": 828000.0,
+    "insurancePremiums": 0.0,
+    "total": 1512000.0
+  },
+  "expenses": {
+    "floatManagementCosts": 57000.0,
+    "operationalCosts": 28500.0,
+    "staffCosts": 0.0,
+    "rentalCosts": 0.0,
+    "total": 85500.0
+  },
+  "profit": {
+    "grossProfit": 1426500.0,
+    "netProfit": 1426500.0,
+    "profitMarginPercent": 94.35
+  },
+  "monthlyBreakdown": [
+    {
+      "month": "Jan",
+      "revenue": 450000.0,
+      "expenses": 28500.0,
+      "profit": 421500.0
+    },
+    {
+      "month": "Feb",
+      "revenue": 480000.0,
+      "expenses": 28500.0,
+      "profit": 451500.0
+    },
+    {
+      "month": "Mar",
+      "revenue": 582000.0,
+      "expenses": 28500.0,
+      "profit": 553500.0
+    }
+  ]
+}

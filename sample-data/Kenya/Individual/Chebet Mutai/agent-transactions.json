@@ -1,0 +1,67 @@
+[
+  {
+    "transactionId": "txn-agt-ke-in-001-001",
+    "referenceNumber": "CI20260305001",
+    "transactionType": "Cash In",
+    "customerPhone": "+254744500001",
+    "customerName": "Kiprop Ruto",
+    "amount": 3200.0,
+    "currency": "KES",
+    "fee": 16.0,
+    "commission": 48.0,
+    "status": "Completed",
+    "transactionDate": "2026-03-05T08:10:00"
+  },
+  {
+    "transactionId": "txn-agt-ke-in-001-002",
+    "referenceNumber": "CO20260305002",
+    "transactionType": "Cash Out",
+    "customerPhone": "+254744500002",
+    "customerName": "Jepchirchir Koech",
+    "amount": 2200.0,
+    "currency": "KES",
+    "fee": 17.6,
+    "commission": 33.0,
+    "status": "Completed",
+    "transactionDate": "2026-03-05T09:00:00"
+  },
+  {
+    "transactionId": "txn-agt-ke-in-001-003",
+    "referenceNumber": "AT20260305003",
+    "transactionType": "Airtime",
+    "customerPhone": "+254744500003",
+    "customerName": "Kiprop Ruto",
+    "amount": 100.0,
+    "currency": "KES",
+    "fee": 0.0,
+    "commission": 1.5,
+    "status": "Completed",
+    "transactionDate": "2026-03-05T10:00:00"
+  },
+  {
+    "transactionId": "txn-agt-ke-in-001-004",
+    "referenceNumber": "CI20260304001",
+    "transactionType": "Cash In",
+    "customerPhone": "+254744500004",
+    "customerName": "Jepchirchir Koech",
+    "amount": 4800.0,
+    "currency": "KES",
+    "fee": 24.0,
+    "commission": 72.0,
+    "status": "Completed",
+    "transactionDate": "2026-03-04T08:30:00"
+  },
+  {
+    "transactionId": "txn-agt-ke-in-001-005",
+    "referenceNumber": "CO20260303001",
+    "transactionType": "Cash Out",
+    "customerPhone": "+254744500005",
+    "customerName": "Kiprop Ruto",
+    "amount": 3600.0,
+    "currency": "KES",
+    "fee": 28.8,
+    "commission": 54.0,
+    "status": "Completed",
+    "transactionDate": "2026-03-03T09:00:00"
+  }
+]

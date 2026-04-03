@@ -1,0 +1,51 @@
+{
+  "agentId": "AGT-KE-SM-001",
+  "agentCode": "NAIV-NBI-001",
+  "agentName": "Karen Branch",
+  "country": "Kenya",
+  "institutionType": "Supermarket",
+  "institutionName": "Naivas Supermarket",
+  "currency": "KES",
+  "period": "2026-Q1",
+  "revenue": {
+    "cashInFees": 95000.0,
+    "cashOutFees": 70000.0,
+    "billPaymentFees": 32000.0,
+    "airtimeSales": 12000.0,
+    "commissions": 220000.0,
+    "insurancePremiums": 0.0,
+    "total": 429000.0
+  },
+  "expenses": {
+    "floatManagementCosts": 42000.0,
+    "operationalCosts": 30000.0,
+    "staffCosts": 0.0,
+    "rentalCosts": 4000.0,
+    "total": 76000.0
+  },
+  "profit": {
+    "grossProfit": 353000.0,
+    "netProfit": 353000.0,
+    "profitMarginPercent": 82.28
+  },
+  "monthlyBreakdown": [
+    {
+      "month": "Jan",
+      "revenue": 128000.0,
+      "expenses": 24000.0,
+      "profit": 104000.0
+    },
+    {
+      "month": "Feb",
+      "revenue": 136000.0,
+      "expenses": 25000.0,
+      "profit": 111000.0
+    },
+    {
+      "month": "Mar",
+      "revenue": 165000.0,
+      "expenses": 27000.0,
+      "profit": 138000.0
+    }
+  ]
+}

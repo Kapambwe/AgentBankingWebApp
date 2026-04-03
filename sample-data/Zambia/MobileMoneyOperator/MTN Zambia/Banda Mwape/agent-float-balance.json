@@ -1,0 +1,13 @@
+{
+  "agentId": "AGT-ZM-MM-001",
+  "agentCode": "MTN-ZM-COP-001",
+  "currency": "ZMW",
+  "currentBalance": 21000.00,
+  "minimumBalance": 2000.00,
+  "maximumBalance": 120000.00,
+  "dailyCashInUsed": 14200.00,
+  "dailyCashOutUsed": 9800.00,
+  "dailyCashInLimit": 60000.00,
+  "dailyCashOutLimit": 40000.00,
+  "lastUpdated": "2026-03-05T09:50:00"
+}

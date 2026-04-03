@@ -1,0 +1,51 @@
+{
+  "agentId": "AGT-NG-SM-001",
+  "agentCode": "SRNG-LAG-001",
+  "agentName": "Ikeja Branch",
+  "country": "Nigeria",
+  "institutionType": "Supermarket",
+  "institutionName": "Shoprite Nigeria",
+  "currency": "NGN",
+  "period": "2026-Q1",
+  "revenue": {
+    "cashInFees": 950000.0,
+    "cashOutFees": 700000.0,
+    "billPaymentFees": 320000.0,
+    "airtimeSales": 120000.0,
+    "commissions": 2200000.0,
+    "insurancePremiums": 0.0,
+    "total": 4290000.0
+  },
+  "expenses": {
+    "floatManagementCosts": 420000.0,
+    "operationalCosts": 300000.0,
+    "staffCosts": 0.0,
+    "rentalCosts": 40000.0,
+    "total": 760000.0
+  },
+  "profit": {
+    "grossProfit": 3530000.0,
+    "netProfit": 3530000.0,
+    "profitMarginPercent": 82.28
+  },
+  "monthlyBreakdown": [
+    {
+      "month": "Jan",
+      "revenue": 1280000.0,
+      "expenses": 240000.0,
+      "profit": 1040000.0
+    },
+    {
+      "month": "Feb",
+      "revenue": 1360000.0,
+      "expenses": 250000.0,
+      "profit": 1110000.0
+    },
+    {
+      "month": "Mar",
+      "revenue": 1650000.0,
+      "expenses": 270000.0,
+      "profit": 1380000.0
+    }
+  ]
+}

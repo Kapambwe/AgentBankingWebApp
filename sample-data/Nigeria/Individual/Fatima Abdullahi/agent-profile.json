@@ -1,0 +1,26 @@
+{
+  "agentId": "AGT-NG-IN-001",
+  "agentCode": "IND-KAN-001",
+  "agentName": "Fatima Abdullahi",
+  "businessName": "Fatima Abdullahi",
+  "agentType": 0,
+  "status": 0,
+  "phoneNumber": "+2348060004001",
+  "email": "fatima.abdullahi@example.ng",
+  "location": "Sabon Gari, Kano, Nigeria",
+  "country": "Nigeria",
+  "currency": "NGN",
+  "dailyCashInLimit": 1200000.0,
+  "dailyCashOutLimit": 800000.0,
+  "transactionLimit": 120000.0,
+  "bankName": "Access Bank Nigeria",
+  "settlementAccount": "3050300004",
+  "onboardedDate": "2024-07-15T00:00:00",
+  "commissionRate": 1.5,
+  "authorisedServices": [
+    "Cash In",
+    "Cash Out",
+    "Airtime Purchase",
+    "Balance Inquiry"
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "agentId": "AGT-MW-CB-001",
+  "agentCode": "NBS-MW-LIL-001",
+  "currency": "MWK",
+  "currentBalance": 850000.00,
+  "minimumBalance": 100000.00,
+  "maximumBalance": 5000000.00,
+  "dailyCashInUsed": 620000.00,
+  "dailyCashOutUsed": 415000.00,
+  "dailyCashInLimit": 2500000.00,
+  "dailyCashOutLimit": 1500000.00,
+  "lastUpdated": "2026-03-05T10:00:00"
+}

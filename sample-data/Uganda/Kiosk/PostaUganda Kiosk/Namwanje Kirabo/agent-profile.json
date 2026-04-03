@@ -1,0 +1,27 @@
+{
+  "agentId": "AGT-UG-KI-001",
+  "agentCode": "KIOSK-KLA-001",
+  "agentName": "Namwanje Kirabo",
+  "businessName": "PostaUganda Kiosk - Namwanje Kirabo",
+  "agentType": 2,
+  "status": 0,
+  "phoneNumber": "+256712200001",
+  "email": "namwanje.kirabo@example.co.ug",
+  "location": "Owino Market, Kampala, Uganda",
+  "country": "Uganda",
+  "currency": "UGX",
+  "dailyCashInLimit": 10000000.0,
+  "dailyCashOutLimit": 7000000.0,
+  "transactionLimit": 1000000.0,
+  "bankName": "DFCU Bank Uganda",
+  "settlementAccount": "9100200002",
+  "onboardedDate": "2024-03-10T00:00:00",
+  "commissionRate": 1.5,
+  "authorisedServices": [
+    "Cash In",
+    "Cash Out",
+    "Airtime Purchase",
+    "Balance Inquiry",
+    "Mini Statement"
+  ]
+}

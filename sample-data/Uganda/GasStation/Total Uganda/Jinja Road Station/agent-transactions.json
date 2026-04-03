@@ -1,0 +1,80 @@
+[
+  {
+    "transactionId": "txn-agt-ug-gs-001-001",
+    "referenceNumber": "CI20260305001",
+    "transactionType": "Cash In",
+    "customerPhone": "+256742700001",
+    "customerName": "Christine Nakabuye",
+    "amount": 1500000.0,
+    "currency": "UGX",
+    "fee": 7500.0,
+    "commission": 15000.0,
+    "status": "Completed",
+    "transactionDate": "2026-03-05T08:00:00"
+  },
+  {
+    "transactionId": "txn-agt-ug-gs-001-002",
+    "referenceNumber": "CO20260305002",
+    "transactionType": "Cash Out",
+    "customerPhone": "+256742700002",
+    "customerName": "Patrick Nsubuga",
+    "amount": 1050000.0,
+    "currency": "UGX",
+    "fee": 8400.0,
+    "commission": 10500.0,
+    "status": "Completed",
+    "transactionDate": "2026-03-05T08:35:00"
+  },
+  {
+    "transactionId": "txn-agt-ug-gs-001-003",
+    "referenceNumber": "BP20260305003",
+    "transactionType": "Bill Payment",
+    "customerPhone": "+256742700003",
+    "customerName": "Christine Nakabuye",
+    "amount": 350000.0,
+    "currency": "UGX",
+    "fee": 3850.0,
+    "commission": 3500.0,
+    "status": "Completed",
+    "transactionDate": "2026-03-05T09:10:00"
+  },
+  {
+    "transactionId": "txn-agt-ug-gs-001-004",
+    "referenceNumber": "CI20260305004",
+    "transactionType": "Cash In",
+    "customerPhone": "+256742700004",
+    "customerName": "Patrick Nsubuga",
+    "amount": 1900000.0,
+    "currency": "UGX",
+    "fee": 9500.0,
+    "commission": 19000.0,
+    "status": "Completed",
+    "transactionDate": "2026-03-05T10:00:00"
+  },
+  {
+    "transactionId": "txn-agt-ug-gs-001-005",
+    "referenceNumber": "CO20260304001",
+    "transactionType": "Cash Out",
+    "customerPhone": "+256742700005",
+    "customerName": "Christine Nakabuye",
+    "amount": 1300000.0,
+    "currency": "UGX",
+    "fee": 10400.0,
+    "commission": 13000.0,
+    "status": "Completed",
+    "transactionDate": "2026-03-04T08:00:00"
+  },
+  {
+    "transactionId": "txn-agt-ug-gs-001-006",
+    "referenceNumber": "CI20260304002",
+    "transactionType": "Cash In",
+    "customerPhone": "+256742700006",
+    "customerName": "Patrick Nsubuga",
+    "amount": 2400000.0,
+    "currency": "UGX",
+    "fee": 12000.0,
+    "commission": 24000.0,
+    "status": "Completed",
+    "transactionDate": "2026-03-04T09:00:00"
+  }
+]

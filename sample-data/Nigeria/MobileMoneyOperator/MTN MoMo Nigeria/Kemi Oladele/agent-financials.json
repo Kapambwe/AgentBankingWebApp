@@ -1,0 +1,36 @@
+{
+  "agentId": "AGT-NG-MM-001",
+  "agentCode": "MTN-NG-ABJ-001",
+  "agentName": "Oladele MoMo Point",
+  "country": "Nigeria",
+  "institutionType": "MobileMoneyOperator",
+  "institutionName": "MTN MoMo Nigeria",
+  "currency": "NGN",
+  "period": "2026-Q1",
+  "revenue": {
+    "cashInFees": 112000.00,
+    "cashOutFees": 84000.00,
+    "billPaymentFees": 36000.00,
+    "airtimeSales": 18000.00,
+    "commissions": 280000.00,
+    "insurancePremiums": 0.00,
+    "total": 530000.00
+  },
+  "expenses": {
+    "floatManagementCosts": 36000.00,
+    "operationalCosts": 28000.00,
+    "staffCosts": 100000.00,
+    "rentalCosts": 50000.00,
+    "total": 214000.00
+  },
+  "profit": {
+    "grossProfit": 316000.00,
+    "netProfit": 316000.00,
+    "profitMarginPercent": 59.62
+  },
+  "monthlyBreakdown": [
+    { "month": "Jan", "revenue": 163000.00, "expenses": 68000.00, "profit": 95000.00 },
+    { "month": "Feb", "revenue": 175000.00, "expenses": 72000.00, "profit": 103000.00 },
+    { "month": "Mar", "revenue": 192000.00, "expenses": 74000.00, "profit": 118000.00 }
+  ]
+}

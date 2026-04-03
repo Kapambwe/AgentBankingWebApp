@@ -1,0 +1,52 @@
+{
+  "agentId": "AGT-ZM-INS-001",
+  "agentCode": "ZSIC-LUS-001",
+  "agentName": "Cairo Road Branch",
+  "country": "Zambia",
+  "institutionType": "Insurance",
+  "institutionName": "ZSIC Life",
+  "currency": "ZMW",
+  "period": "2026-Q1",
+  "revenue": {
+    "cashInFees": 12000.0,
+    "cashOutFees": 7500.0,
+    "billPaymentFees": 3000.0,
+    "airtimeSales": 0.0,
+    "insurancePremiumCommissions": 48000.0,
+    "commissions": 50500.0,
+    "insurancePremiums": 0.0,
+    "total": 121000.0
+  },
+  "expenses": {
+    "floatManagementCosts": 2800.0,
+    "operationalCosts": 2000.0,
+    "staffCosts": 6000.0,
+    "rentalCosts": 3200.0,
+    "total": 14000.0
+  },
+  "profit": {
+    "grossProfit": 107000.0,
+    "netProfit": 107000.0,
+    "profitMarginPercent": 88.43
+  },
+  "monthlyBreakdown": [
+    {
+      "month": "Jan",
+      "revenue": 37000.0,
+      "expenses": 4400.0,
+      "profit": 32600.0
+    },
+    {
+      "month": "Feb",
+      "revenue": 39500.0,
+      "expenses": 4700.0,
+      "profit": 34800.0
+    },
+    {
+      "month": "Mar",
+      "revenue": 44500.0,
+      "expenses": 4900.0,
+      "profit": 39600.0
+    }
+  ]
+}

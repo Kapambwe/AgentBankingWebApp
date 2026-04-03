@@ -1,0 +1,28 @@
+{
+  "agentId": "AGT-UG-INS-001",
+  "agentCode": "UAP-KLA-001",
+  "agentName": "Kampala Branch",
+  "businessName": "UAP Old Mutual Uganda - Kampala Branch",
+  "agentType": 8,
+  "status": 0,
+  "phoneNumber": "+256752200001",
+  "email": "uap.kampala@example.co.ug",
+  "location": "UAP Building, Plot 1-3 Pilkington Road, Kampala, Uganda",
+  "country": "Uganda",
+  "currency": "UGX",
+  "dailyCashInLimit": 18000000.0,
+  "dailyCashOutLimit": 11000000.0,
+  "transactionLimit": 1800000.0,
+  "bankName": "Stanbic Bank Uganda",
+  "settlementAccount": "9500200006",
+  "onboardedDate": "2024-02-15T00:00:00",
+  "commissionRate": 2.0,
+  "authorisedServices": [
+    "Cash In",
+    "Cash Out",
+    "Insurance Premium Payment",
+    "Insurance Policy Issuance",
+    "Bill Payment",
+    "Balance Inquiry"
+  ]
+}

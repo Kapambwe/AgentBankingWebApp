@@ -1,0 +1,29 @@
+{
+  "agentId": "AGT-MW-CB-001",
+  "agentCode": "NBS-MW-LIL-001",
+  "agentName": "Chisumo Banda",
+  "businessName": "Banda Trading Centre",
+  "agentType": 1,
+  "status": 0,
+  "phoneNumber": "+265991234567",
+  "email": "chisumo.banda@example.co.mw",
+  "location": "Lilongwe, Malawi",
+  "country": "Malawi",
+  "currency": "MWK",
+  "dailyCashInLimit": 2500000.00,
+  "dailyCashOutLimit": 1500000.00,
+  "transactionLimit": 250000.00,
+  "bankName": "NBS Bank Malawi",
+  "settlementAccount": "1010234567",
+  "onboardedDate": "2024-04-10T00:00:00",
+  "commissionRate": 1.5,
+  "authorisedServices": [
+    "Cash In",
+    "Cash Out",
+    "Bill Payment",
+    "Airtime Purchase",
+    "Balance Inquiry",
+    "Mini Statement",
+    "Account Opening"
+  ]
+}

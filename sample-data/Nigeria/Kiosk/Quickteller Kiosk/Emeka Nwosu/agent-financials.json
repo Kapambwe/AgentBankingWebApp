@@ -1,0 +1,51 @@
+{
+  "agentId": "AGT-NG-KI-001",
+  "agentCode": "KIOSK-LAG-001",
+  "agentName": "Emeka Nwosu",
+  "country": "Nigeria",
+  "institutionType": "Kiosk",
+  "institutionName": "Quickteller Kiosk",
+  "currency": "NGN",
+  "period": "2026-Q1",
+  "revenue": {
+    "cashInFees": 300000.0,
+    "cashOutFees": 220000.0,
+    "billPaymentFees": 0.0,
+    "airtimeSales": 48000.0,
+    "commissions": 720000.0,
+    "insurancePremiums": 0.0,
+    "total": 1288000.0
+  },
+  "expenses": {
+    "floatManagementCosts": 48000.0,
+    "operationalCosts": 32000.0,
+    "staffCosts": 96000.0,
+    "rentalCosts": 40000.0,
+    "total": 216000.0
+  },
+  "profit": {
+    "grossProfit": 1072000.0,
+    "netProfit": 1072000.0,
+    "profitMarginPercent": 83.23
+  },
+  "monthlyBreakdown": [
+    {
+      "month": "Jan",
+      "revenue": 390000.0,
+      "expenses": 72000.0,
+      "profit": 318000.0
+    },
+    {
+      "month": "Feb",
+      "revenue": 416000.0,
+      "expenses": 72000.0,
+      "profit": 344000.0
+    },
+    {
+      "month": "Mar",
+      "revenue": 482000.0,
+      "expenses": 72000.0,
+      "profit": 410000.0
+    }
+  ]
+}

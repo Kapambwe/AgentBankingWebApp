@@ -1,0 +1,36 @@
+{
+  "agentId": "AGT-KE-CB-001",
+  "agentCode": "EQB-KE-NBI-001",
+  "agentName": "Ndungu Equity Agent Banking",
+  "country": "Kenya",
+  "institutionType": "CommercialBank",
+  "institutionName": "Equity Bank Kenya",
+  "currency": "KES",
+  "period": "2026-Q1",
+  "revenue": {
+    "cashInFees": 18500.00,
+    "cashOutFees": 14200.00,
+    "billPaymentFees": 6500.00,
+    "airtimeSales": 2800.00,
+    "commissions": 42000.00,
+    "insurancePremiums": 2500.00,
+    "total": 86500.00
+  },
+  "expenses": {
+    "floatManagementCosts": 5500.00,
+    "operationalCosts": 4000.00,
+    "staffCosts": 18000.00,
+    "rentalCosts": 8000.00,
+    "total": 35500.00
+  },
+  "profit": {
+    "grossProfit": 51000.00,
+    "netProfit": 51000.00,
+    "profitMarginPercent": 58.96
+  },
+  "monthlyBreakdown": [
+    { "month": "Jan", "revenue": 26800.00, "expenses": 11200.00, "profit": 15600.00 },
+    { "month": "Feb", "revenue": 28500.00, "expenses": 11700.00, "profit": 16800.00 },
+    { "month": "Mar", "revenue": 31200.00, "expenses": 12600.00, "profit": 18600.00 }
+  ]
+}

@@ -1,0 +1,67 @@
+[
+  {
+    "transactionId": "txn-agt-ke-ki-001-001",
+    "referenceNumber": "CI20260305001",
+    "transactionType": "Cash In",
+    "customerPhone": "+254722300001",
+    "customerName": "Peris Njeru",
+    "amount": 9500.0,
+    "currency": "KES",
+    "fee": 47.5,
+    "commission": 142.5,
+    "status": "Completed",
+    "transactionDate": "2026-03-05T08:05:00"
+  },
+  {
+    "transactionId": "txn-agt-ke-ki-001-002",
+    "referenceNumber": "CO20260305002",
+    "transactionType": "Cash Out",
+    "customerPhone": "+254722300002",
+    "customerName": "Samuel Kariuki",
+    "amount": 7000.0,
+    "currency": "KES",
+    "fee": 56.0,
+    "commission": 105.0,
+    "status": "Completed",
+    "transactionDate": "2026-03-05T08:45:00"
+  },
+  {
+    "transactionId": "txn-agt-ke-ki-001-003",
+    "referenceNumber": "AT20260305003",
+    "transactionType": "Airtime",
+    "customerPhone": "+254722300003",
+    "customerName": "Peris Njeru",
+    "amount": 200.0,
+    "currency": "KES",
+    "fee": 0.0,
+    "commission": 3.0,
+    "status": "Completed",
+    "transactionDate": "2026-03-05T09:15:00"
+  },
+  {
+    "transactionId": "txn-agt-ke-ki-001-004",
+    "referenceNumber": "CI20260305004",
+    "transactionType": "Cash In",
+    "customerPhone": "+254722300004",
+    "customerName": "Samuel Kariuki",
+    "amount": 12000.0,
+    "currency": "KES",
+    "fee": 60.0,
+    "commission": 180.0,
+    "status": "Completed",
+    "transactionDate": "2026-03-05T10:00:00"
+  },
+  {
+    "transactionId": "txn-agt-ke-ki-001-005",
+    "referenceNumber": "CO20260304001",
+    "transactionType": "Cash Out",
+    "customerPhone": "+254722300005",
+    "customerName": "Peris Njeru",
+    "amount": 8500.0,
+    "currency": "KES",
+    "fee": 68.0,
+    "commission": 127.5,
+    "status": "Completed",
+    "transactionDate": "2026-03-04T08:30:00"
+  }
+]

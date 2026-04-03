@@ -1,0 +1,80 @@
+[
+  {
+    "transactionId": "txn-agt-mw-sm-001-001",
+    "referenceNumber": "CI20260305001",
+    "transactionType": "Cash In",
+    "customerPhone": "+265991600001",
+    "customerName": "Fyness Mzumara",
+    "amount": 280000.0,
+    "currency": "MWK",
+    "fee": 1400.0,
+    "commission": 2800.0,
+    "status": "Completed",
+    "transactionDate": "2026-03-05T08:00:00"
+  },
+  {
+    "transactionId": "txn-agt-mw-sm-001-002",
+    "referenceNumber": "CO20260305002",
+    "transactionType": "Cash Out",
+    "customerPhone": "+265991600002",
+    "customerName": "Wongani Mkwanda",
+    "amount": 180000.0,
+    "currency": "MWK",
+    "fee": 1440.0,
+    "commission": 1800.0,
+    "status": "Completed",
+    "transactionDate": "2026-03-05T08:30:00"
+  },
+  {
+    "transactionId": "txn-agt-mw-sm-001-003",
+    "referenceNumber": "BP20260305003",
+    "transactionType": "Bill Payment",
+    "customerPhone": "+265991600003",
+    "customerName": "Thandie Phiri",
+    "amount": 65000.0,
+    "currency": "MWK",
+    "fee": 715.0,
+    "commission": 650.0,
+    "status": "Completed",
+    "transactionDate": "2026-03-05T09:00:00"
+  },
+  {
+    "transactionId": "txn-agt-mw-sm-001-004",
+    "referenceNumber": "CI20260305004",
+    "transactionType": "Cash In",
+    "customerPhone": "+265991600004",
+    "customerName": "Fyness Mzumara",
+    "amount": 350000.0,
+    "currency": "MWK",
+    "fee": 1750.0,
+    "commission": 3500.0,
+    "status": "Completed",
+    "transactionDate": "2026-03-05T10:00:00"
+  },
+  {
+    "transactionId": "txn-agt-mw-sm-001-005",
+    "referenceNumber": "CO20260304001",
+    "transactionType": "Cash Out",
+    "customerPhone": "+265991600005",
+    "customerName": "Wongani Mkwanda",
+    "amount": 240000.0,
+    "currency": "MWK",
+    "fee": 1920.0,
+    "commission": 2400.0,
+    "status": "Completed",
+    "transactionDate": "2026-03-04T08:00:00"
+  },
+  {
+    "transactionId": "txn-agt-mw-sm-001-006",
+    "referenceNumber": "CI20260304002",
+    "transactionType": "Cash In",
+    "customerPhone": "+265991600006",
+    "customerName": "Thandie Phiri",
+    "amount": 420000.0,
+    "currency": "MWK",
+    "fee": 2100.0,
+    "commission": 4200.0,
+    "status": "Completed",
+    "transactionDate": "2026-03-04T09:00:00"
+  }
+]

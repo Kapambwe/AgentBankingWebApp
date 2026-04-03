@@ -1,0 +1,80 @@
+[
+  {
+    "transactionId": "txn-agt-ng-sm-001-001",
+    "referenceNumber": "CI20260305001",
+    "transactionType": "Cash In",
+    "customerPhone": "+2348111000001",
+    "customerName": "Obiageli Okonkwo",
+    "amount": 550000.0,
+    "currency": "NGN",
+    "fee": 2750.0,
+    "commission": 5500.0,
+    "status": "Completed",
+    "transactionDate": "2026-03-05T08:00:00"
+  },
+  {
+    "transactionId": "txn-agt-ng-sm-001-002",
+    "referenceNumber": "CO20260305002",
+    "transactionType": "Cash Out",
+    "customerPhone": "+2348111000002",
+    "customerName": "Hakeem Lawal",
+    "amount": 380000.0,
+    "currency": "NGN",
+    "fee": 3040.0,
+    "commission": 3800.0,
+    "status": "Completed",
+    "transactionDate": "2026-03-05T08:30:00"
+  },
+  {
+    "transactionId": "txn-agt-ng-sm-001-003",
+    "referenceNumber": "BP20260305003",
+    "transactionType": "Bill Payment",
+    "customerPhone": "+2348111000003",
+    "customerName": "Ngozi Okeke",
+    "amount": 120000.0,
+    "currency": "NGN",
+    "fee": 1320.0,
+    "commission": 1200.0,
+    "status": "Completed",
+    "transactionDate": "2026-03-05T09:00:00"
+  },
+  {
+    "transactionId": "txn-agt-ng-sm-001-004",
+    "referenceNumber": "CI20260305004",
+    "transactionType": "Cash In",
+    "customerPhone": "+2348111000004",
+    "customerName": "Obiageli Okonkwo",
+    "amount": 700000.0,
+    "currency": "NGN",
+    "fee": 3500.0,
+    "commission": 7000.0,
+    "status": "Completed",
+    "transactionDate": "2026-03-05T10:00:00"
+  },
+  {
+    "transactionId": "txn-agt-ng-sm-001-005",
+    "referenceNumber": "CO20260304001",
+    "transactionType": "Cash Out",
+    "customerPhone": "+2348111000005",
+    "customerName": "Hakeem Lawal",
+    "amount": 500000.0,
+    "currency": "NGN",
+    "fee": 4000.0,
+    "commission": 5000.0,
+    "status": "Completed",
+    "transactionDate": "2026-03-04T08:00:00"
+  },
+  {
+    "transactionId": "txn-agt-ng-sm-001-006",
+    "referenceNumber": "CI20260304002",
+    "transactionType": "Cash In",
+    "customerPhone": "+2348111000006",
+    "customerName": "Ngozi Okeke",
+    "amount": 850000.0,
+    "currency": "NGN",
+    "fee": 4250.0,
+    "commission": 8500.0,
+    "status": "Completed",
+    "transactionDate": "2026-03-04T09:00:00"
+  }
+]

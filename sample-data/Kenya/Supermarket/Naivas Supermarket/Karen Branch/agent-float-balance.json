@@ -1,0 +1,13 @@
+{
+  "agentId": "AGT-KE-SM-001",
+  "agentCode": "NAIV-NBI-001",
+  "currency": "KES",
+  "currentBalance": 320000.0,
+  "minimumBalance": 40000.0,
+  "maximumBalance": 2000000.0,
+  "dailyCashInUsed": 200000.0,
+  "dailyCashOutUsed": 130000.0,
+  "dailyCashInLimit": 800000.0,
+  "dailyCashOutLimit": 500000.0,
+  "lastUpdated": "2026-03-05T10:00:00"
+}

@@ -1,0 +1,51 @@
+{
+  "agentId": "AGT-KE-KI-001",
+  "agentCode": "KIOSK-NBI-001",
+  "agentName": "Wanjiru Kamau",
+  "country": "Kenya",
+  "institutionType": "Kiosk",
+  "institutionName": "Posta Kenya Kiosk",
+  "currency": "KES",
+  "period": "2026-Q1",
+  "revenue": {
+    "cashInFees": 30000.0,
+    "cashOutFees": 22000.0,
+    "billPaymentFees": 0.0,
+    "airtimeSales": 4400.0,
+    "commissions": 72000.0,
+    "insurancePremiums": 0.0,
+    "total": 128400.0
+  },
+  "expenses": {
+    "floatManagementCosts": 4800.0,
+    "operationalCosts": 3200.0,
+    "staffCosts": 9600.0,
+    "rentalCosts": 4000.0,
+    "total": 21600.0
+  },
+  "profit": {
+    "grossProfit": 106800.0,
+    "netProfit": 106800.0,
+    "profitMarginPercent": 83.18
+  },
+  "monthlyBreakdown": [
+    {
+      "month": "Jan",
+      "revenue": 38600.0,
+      "expenses": 7200.0,
+      "profit": 31400.0
+    },
+    {
+      "month": "Feb",
+      "revenue": 41200.0,
+      "expenses": 7200.0,
+      "profit": 34000.0
+    },
+    {
+      "month": "Mar",
+      "revenue": 48600.0,
+      "expenses": 7200.0,
+      "profit": 41400.0
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+[
+  {
+    "commissionId": "com-agt-zm-in-001-001",
+    "agentId": "AGT-ZM-IN-001",
+    "transactionReference": "CI20260305001",
+    "transactionType": "Cash In",
+    "transactionAmount": 800.0,
+    "commissionAmount": 12.0,
+    "currency": "ZMW",
+    "earnedDate": "2026-03-05T08:10:00",
+    "isPaid": false,
+    "paidDate": null
+  },
+  {
+    "commissionId": "com-agt-zm-in-001-002",
+    "agentId": "AGT-ZM-IN-001",
+    "transactionReference": "CO20260305002",
+    "transactionType": "Cash Out",
+    "transactionAmount": 600.0,
+    "commissionAmount": 9.0,
+    "currency": "ZMW",
+    "earnedDate": "2026-03-05T09:00:00",
+    "isPaid": false,
+    "paidDate": null
+  },
+  {
+    "commissionId": "com-agt-zm-in-001-003",
+    "agentId": "AGT-ZM-IN-001",
+    "transactionReference": "AT20260305003",
+    "transactionType": "Airtime",
+    "transactionAmount": 30.0,
+    "commissionAmount": 0.45,
+    "currency": "ZMW",
+    "earnedDate": "2026-03-05T10:00:00",
+    "isPaid": false,
+    "paidDate": null
+  },
+  {
+    "commissionId": "com-agt-zm-in-001-004",
+    "agentId": "AGT-ZM-IN-001",
+    "transactionReference": "CI20260304001",
+    "transactionType": "Cash In",
+    "transactionAmount": 1200.0,
+    "commissionAmount": 18.0,
+    "currency": "ZMW",
+    "earnedDate": "2026-03-04T08:30:00",
+    "isPaid": false,
+    "paidDate": null
+  },
+  {
+    "commissionId": "com-agt-zm-in-001-005",
+    "agentId": "AGT-ZM-IN-001",
+    "transactionReference": "CO20260303001",
+    "transactionType": "Cash Out",
+    "transactionAmount": 900.0,
+    "commissionAmount": 13.5,
+    "currency": "ZMW",
+    "earnedDate": "2026-03-03T09:00:00",
+    "isPaid": true,
+    "paidDate": "2026-03-05T09:00:00"
+  }
+]

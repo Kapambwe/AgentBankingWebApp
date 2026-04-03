@@ -1,0 +1,36 @@
+{
+  "agentId": "AGT-ZM-CB-001",
+  "agentCode": "FNB-ZM-LUS-001",
+  "agentName": "Mutale General Dealers",
+  "country": "Zambia",
+  "institutionType": "CommercialBank",
+  "institutionName": "First National Bank Zambia",
+  "currency": "ZMW",
+  "period": "2026-Q1",
+  "revenue": {
+    "cashInFees": 8500.00,
+    "cashOutFees": 6200.00,
+    "billPaymentFees": 2800.00,
+    "airtimeSales": 1200.00,
+    "commissions": 18700.00,
+    "insurancePremiums": 500.00,
+    "total": 37900.00
+  },
+  "expenses": {
+    "floatManagementCosts": 2500.00,
+    "operationalCosts": 1800.00,
+    "staffCosts": 6000.00,
+    "rentalCosts": 3000.00,
+    "total": 13300.00
+  },
+  "profit": {
+    "grossProfit": 24600.00,
+    "netProfit": 24600.00,
+    "profitMarginPercent": 64.91
+  },
+  "monthlyBreakdown": [
+    { "month": "Jan", "revenue": 11800.00, "expenses": 4200.00, "profit": 7600.00 },
+    { "month": "Feb", "revenue": 12600.00, "expenses": 4400.00, "profit": 8200.00 },
+    { "month": "Mar", "revenue": 13500.00, "expenses": 4700.00, "profit": 8800.00 }
+  ]
+}

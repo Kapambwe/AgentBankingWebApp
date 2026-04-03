@@ -1,0 +1,13 @@
+{
+  "agentId": "AGT-NG-SM-001",
+  "agentCode": "SRNG-LAG-001",
+  "currency": "NGN",
+  "currentBalance": 3200000.0,
+  "minimumBalance": 400000.0,
+  "maximumBalance": 20000000.0,
+  "dailyCashInUsed": 2000000.0,
+  "dailyCashOutUsed": 1300000.0,
+  "dailyCashInLimit": 8000000.0,
+  "dailyCashOutLimit": 5000000.0,
+  "lastUpdated": "2026-03-05T10:00:00"
+}

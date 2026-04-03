@@ -1,0 +1,62 @@
+[
+  {
+    "commissionId": "com-agt-mw-ki-001-001",
+    "agentId": "AGT-MW-KI-001",
+    "transactionReference": "CI20260305001",
+    "transactionType": "Cash In",
+    "transactionAmount": 48000.0,
+    "commissionAmount": 720.0,
+    "currency": "MWK",
+    "earnedDate": "2026-03-05T08:05:00",
+    "isPaid": false,
+    "paidDate": null
+  },
+  {
+    "commissionId": "com-agt-mw-ki-001-002",
+    "agentId": "AGT-MW-KI-001",
+    "transactionReference": "CO20260305002",
+    "transactionType": "Cash Out",
+    "transactionAmount": 35000.0,
+    "commissionAmount": 525.0,
+    "currency": "MWK",
+    "earnedDate": "2026-03-05T08:45:00",
+    "isPaid": false,
+    "paidDate": null
+  },
+  {
+    "commissionId": "com-agt-mw-ki-001-003",
+    "agentId": "AGT-MW-KI-001",
+    "transactionReference": "AT20260305003",
+    "transactionType": "Airtime",
+    "transactionAmount": 2000.0,
+    "commissionAmount": 30.0,
+    "currency": "MWK",
+    "earnedDate": "2026-03-05T09:15:00",
+    "isPaid": false,
+    "paidDate": null
+  },
+  {
+    "commissionId": "com-agt-mw-ki-001-004",
+    "agentId": "AGT-MW-KI-001",
+    "transactionReference": "CI20260305004",
+    "transactionType": "Cash In",
+    "transactionAmount": 60000.0,
+    "commissionAmount": 900.0,
+    "currency": "MWK",
+    "earnedDate": "2026-03-05T10:00:00",
+    "isPaid": false,
+    "paidDate": null
+  },
+  {
+    "commissionId": "com-agt-mw-ki-001-005",
+    "agentId": "AGT-MW-KI-001",
+    "transactionReference": "CO20260304001",
+    "transactionType": "Cash Out",
+    "transactionAmount": 42000.0,
+    "commissionAmount": 630.0,
+    "currency": "MWK",
+    "earnedDate": "2026-03-04T08:30:00",
+    "isPaid": true,
+    "paidDate": "2026-03-05T09:00:00"
+  }
+]

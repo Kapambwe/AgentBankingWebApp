@@ -1,0 +1,13 @@
+{
+  "agentId": "AGT-MW-SM-001",
+  "agentCode": "CHIP-BLN-001",
+  "currency": "MWK",
+  "currentBalance": 1600000.0,
+  "minimumBalance": 200000.0,
+  "maximumBalance": 10000000.0,
+  "dailyCashInUsed": 980000.0,
+  "dailyCashOutUsed": 650000.0,
+  "dailyCashInLimit": 4000000.0,
+  "dailyCashOutLimit": 2500000.0,
+  "lastUpdated": "2026-03-05T10:00:00"
+}

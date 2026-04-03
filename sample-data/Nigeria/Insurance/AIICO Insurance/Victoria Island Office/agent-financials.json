@@ -1,0 +1,52 @@
+{
+  "agentId": "AGT-NG-INS-001",
+  "agentCode": "AIICO-LAG-001",
+  "agentName": "Victoria Island Office",
+  "country": "Nigeria",
+  "institutionType": "Insurance",
+  "institutionName": "AIICO Insurance",
+  "currency": "NGN",
+  "period": "2026-Q1",
+  "revenue": {
+    "cashInFees": 600000.0,
+    "cashOutFees": 380000.0,
+    "billPaymentFees": 150000.0,
+    "airtimeSales": 0.0,
+    "insurancePremiumCommissions": 2600000.0,
+    "commissions": 2400000.0,
+    "insurancePremiums": 0.0,
+    "total": 6130000.0
+  },
+  "expenses": {
+    "floatManagementCosts": 140000.0,
+    "operationalCosts": 95000.0,
+    "staffCosts": 300000.0,
+    "rentalCosts": 164000.0,
+    "total": 699000.0
+  },
+  "profit": {
+    "grossProfit": 5431000.0,
+    "netProfit": 5431000.0,
+    "profitMarginPercent": 88.6
+  },
+  "monthlyBreakdown": [
+    {
+      "month": "Jan",
+      "revenue": 1850000.0,
+      "expenses": 225000.0,
+      "profit": 1625000.0
+    },
+    {
+      "month": "Feb",
+      "revenue": 1970000.0,
+      "expenses": 233000.0,
+      "profit": 1737000.0
+    },
+    {
+      "month": "Mar",
+      "revenue": 2310000.0,
+      "expenses": 241000.0,
+      "profit": 2069000.0
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "agentId": "AGT-UG-MM-001",
+  "agentCode": "MTN-UG-ENT-001",
+  "agentName": "Kiwanuka MoMo Services",
+  "country": "Uganda",
+  "institutionType": "MobileMoneyOperator",
+  "institutionName": "MTN Uganda",
+  "currency": "UGX",
+  "period": "2026-Q1",
+  "revenue": {
+    "cashInFees": 1200000.00,
+    "cashOutFees": 880000.00,
+    "billPaymentFees": 420000.00,
+    "airtimeSales": 180000.00,
+    "commissions": 2820000.00,
+    "insurancePremiums": 0.00,
+    "total": 5500000.00
+  },
+  "expenses": {
+    "floatManagementCosts": 350000.00,
+    "operationalCosts": 270000.00,
+    "staffCosts": 1200000.00,
+    "rentalCosts": 550000.00,
+    "total": 2370000.00
+  },
+  "profit": {
+    "grossProfit": 3130000.00,
+    "netProfit": 3130000.00,
+    "profitMarginPercent": 56.91
+  },
+  "monthlyBreakdown": [
+    { "month": "Jan", "revenue": 1700000.00, "expenses": 755000.00, "profit": 945000.00 },
+    { "month": "Feb", "revenue": 1820000.00, "expenses": 790000.00, "profit": 1030000.00 },
+    { "month": "Mar", "revenue": 1980000.00, "expenses": 825000.00, "profit": 1155000.00 }
+  ]
+}

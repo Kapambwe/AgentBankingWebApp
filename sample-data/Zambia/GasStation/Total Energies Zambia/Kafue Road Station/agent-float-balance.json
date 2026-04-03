@@ -1,0 +1,13 @@
+{
+  "agentId": "AGT-ZM-GS-001",
+  "agentCode": "GAS-LUS-001",
+  "currency": "ZMW",
+  "currentBalance": 58000.0,
+  "minimumBalance": 8000.0,
+  "maximumBalance": 350000.0,
+  "dailyCashInUsed": 38000.0,
+  "dailyCashOutUsed": 25000.0,
+  "dailyCashInLimit": 150000.0,
+  "dailyCashOutLimit": 100000.0,
+  "lastUpdated": "2026-03-05T10:00:00"
+}

@@ -1,0 +1,28 @@
+{
+  "agentId": "AGT-MW-INS-001",
+  "agentCode": "OM-BLN-001",
+  "agentName": "Blantyre City Centre",
+  "businessName": "Old Mutual Malawi - Blantyre City Centre",
+  "agentType": 8,
+  "status": 0,
+  "phoneNumber": "+265991222001",
+  "email": "oldmutual.blantyre@example.co.mw",
+  "location": "Livingstone Avenue, Blantyre, Malawi",
+  "country": "Malawi",
+  "currency": "MWK",
+  "dailyCashInLimit": 2000000.0,
+  "dailyCashOutLimit": 1200000.0,
+  "transactionLimit": 200000.0,
+  "bankName": "Standard Bank Malawi",
+  "settlementAccount": "1070300006",
+  "onboardedDate": "2024-04-01T00:00:00",
+  "commissionRate": 2.0,
+  "authorisedServices": [
+    "Cash In",
+    "Cash Out",
+    "Insurance Premium Payment",
+    "Insurance Policy Issuance",
+    "Bill Payment",
+    "Balance Inquiry"
+  ]
+}

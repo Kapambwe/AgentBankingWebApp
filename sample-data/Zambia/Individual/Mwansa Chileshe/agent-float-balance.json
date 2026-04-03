@@ -1,0 +1,13 @@
+{
+  "agentId": "AGT-ZM-IN-001",
+  "agentCode": "IND-LUS-001",
+  "currency": "ZMW",
+  "currentBalance": 9500.0,
+  "minimumBalance": 1000.0,
+  "maximumBalance": 60000.0,
+  "dailyCashInUsed": 6200.0,
+  "dailyCashOutUsed": 4100.0,
+  "dailyCashInLimit": 30000.0,
+  "dailyCashOutLimit": 20000.0,
+  "lastUpdated": "2026-03-05T10:00:00"
+}

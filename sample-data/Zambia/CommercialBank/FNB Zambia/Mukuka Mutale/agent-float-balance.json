@@ -1,0 +1,13 @@
+{
+  "agentId": "AGT-ZM-CB-001",
+  "agentCode": "FNB-ZM-LUS-001",
+  "currency": "ZMW",
+  "currentBalance": 42500.00,
+  "minimumBalance": 5000.00,
+  "maximumBalance": 200000.00,
+  "dailyCashInUsed": 28600.00,
+  "dailyCashOutUsed": 19400.00,
+  "dailyCashInLimit": 100000.00,
+  "dailyCashOutLimit": 75000.00,
+  "lastUpdated": "2026-03-05T10:15:00"
+}

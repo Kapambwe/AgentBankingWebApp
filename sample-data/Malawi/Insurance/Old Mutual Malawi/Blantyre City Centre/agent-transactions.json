@@ -1,0 +1,93 @@
+[
+  {
+    "transactionId": "txn-agt-mw-ins-001-001",
+    "referenceNumber": "IP20260305001",
+    "transactionType": "Insurance Premium",
+    "customerPhone": "+265991800101",
+    "customerName": "Chisomo Mvula",
+    "amount": 68000.0,
+    "currency": "MWK",
+    "fee": 680.0,
+    "commission": 1360.0,
+    "status": "Completed",
+    "transactionDate": "2026-03-05T08:00:00"
+  },
+  {
+    "transactionId": "txn-agt-mw-ins-001-002",
+    "referenceNumber": "CI20260305002",
+    "transactionType": "Cash In",
+    "customerPhone": "+265991800102",
+    "customerName": "Thandizo Chirwa",
+    "amount": 155000.0,
+    "currency": "MWK",
+    "fee": 775.0,
+    "commission": 3100.0,
+    "status": "Completed",
+    "transactionDate": "2026-03-05T08:30:00"
+  },
+  {
+    "transactionId": "txn-agt-mw-ins-001-003",
+    "referenceNumber": "IP20260305003",
+    "transactionType": "Insurance Premium",
+    "customerPhone": "+265991800103",
+    "customerName": "Mayeso Kasinja",
+    "amount": 95000.0,
+    "currency": "MWK",
+    "fee": 950.0,
+    "commission": 1900.0,
+    "status": "Completed",
+    "transactionDate": "2026-03-05T09:00:00"
+  },
+  {
+    "transactionId": "txn-agt-mw-ins-001-004",
+    "referenceNumber": "CO20260305004",
+    "transactionType": "Cash Out",
+    "customerPhone": "+265991800104",
+    "customerName": "Fyness Gondwe",
+    "amount": 120000.0,
+    "currency": "MWK",
+    "fee": 960.0,
+    "commission": 2400.0,
+    "status": "Completed",
+    "transactionDate": "2026-03-05T09:30:00"
+  },
+  {
+    "transactionId": "txn-agt-mw-ins-001-005",
+    "referenceNumber": "IP20260305005",
+    "transactionType": "Insurance Premium",
+    "customerPhone": "+265991800105",
+    "customerName": "Thandizo Chirwa",
+    "amount": 52000.0,
+    "currency": "MWK",
+    "fee": 520.0,
+    "commission": 1040.0,
+    "status": "Completed",
+    "transactionDate": "2026-03-05T10:00:00"
+  },
+  {
+    "transactionId": "txn-agt-mw-ins-001-006",
+    "referenceNumber": "IP20260304001",
+    "transactionType": "Insurance Premium",
+    "customerPhone": "+265991800106",
+    "customerName": "Mayeso Kasinja",
+    "amount": 78000.0,
+    "currency": "MWK",
+    "fee": 780.0,
+    "commission": 1560.0,
+    "status": "Completed",
+    "transactionDate": "2026-03-04T08:00:00"
+  },
+  {
+    "transactionId": "txn-agt-mw-ins-001-007",
+    "referenceNumber": "CI20260304002",
+    "transactionType": "Cash In",
+    "customerPhone": "+265991800107",
+    "customerName": "Chisomo Mvula",
+    "amount": 180000.0,
+    "currency": "MWK",
+    "fee": 900.0,
+    "commission": 3600.0,
+    "status": "Completed",
+    "transactionDate": "2026-03-04T09:00:00"
+  }
+]

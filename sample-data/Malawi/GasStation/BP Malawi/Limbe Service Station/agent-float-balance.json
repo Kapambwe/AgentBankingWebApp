@@ -1,0 +1,13 @@
+{
+  "agentId": "AGT-MW-GS-001",
+  "agentCode": "GAS-BLN-001",
+  "currency": "MWK",
+  "currentBalance": 1100000.0,
+  "minimumBalance": 150000.0,
+  "maximumBalance": 7000000.0,
+  "dailyCashInUsed": 720000.0,
+  "dailyCashOutUsed": 480000.0,
+  "dailyCashInLimit": 3000000.0,
+  "dailyCashOutLimit": 2000000.0,
+  "lastUpdated": "2026-03-05T10:00:00"
+}

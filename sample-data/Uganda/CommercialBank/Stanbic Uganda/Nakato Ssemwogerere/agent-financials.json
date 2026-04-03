@@ -1,0 +1,36 @@
+{
+  "agentId": "AGT-UG-CB-001",
+  "agentCode": "STB-UG-KLA-001",
+  "agentName": "Ssemwogerere Financial Hub",
+  "country": "Uganda",
+  "institutionType": "CommercialBank",
+  "institutionName": "Stanbic Bank Uganda",
+  "currency": "UGX",
+  "period": "2026-Q1",
+  "revenue": {
+    "cashInFees": 1850000.00,
+    "cashOutFees": 1350000.00,
+    "billPaymentFees": 650000.00,
+    "airtimeSales": 280000.00,
+    "commissions": 4200000.00,
+    "insurancePremiums": 0.00,
+    "total": 8330000.00
+  },
+  "expenses": {
+    "floatManagementCosts": 550000.00,
+    "operationalCosts": 400000.00,
+    "staffCosts": 1800000.00,
+    "rentalCosts": 800000.00,
+    "total": 3550000.00
+  },
+  "profit": {
+    "grossProfit": 4780000.00,
+    "netProfit": 4780000.00,
+    "profitMarginPercent": 57.38
+  },
+  "monthlyBreakdown": [
+    { "month": "Jan", "revenue": 2580000.00, "expenses": 1130000.00, "profit": 1450000.00 },
+    { "month": "Feb", "revenue": 2750000.00, "expenses": 1185000.00, "profit": 1565000.00 },
+    { "month": "Mar", "revenue": 3000000.00, "expenses": 1235000.00, "profit": 1765000.00 }
+  ]
+}

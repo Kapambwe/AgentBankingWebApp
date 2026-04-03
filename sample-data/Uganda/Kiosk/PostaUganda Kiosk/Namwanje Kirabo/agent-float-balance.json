@@ -1,0 +1,13 @@
+{
+  "agentId": "AGT-UG-KI-001",
+  "agentCode": "KIOSK-KLA-001",
+  "currency": "UGX",
+  "currentBalance": 3800000.0,
+  "minimumBalance": 400000.0,
+  "maximumBalance": 25000000.0,
+  "dailyCashInUsed": 2400000.0,
+  "dailyCashOutUsed": 1580000.0,
+  "dailyCashInLimit": 10000000.0,
+  "dailyCashOutLimit": 7000000.0,
+  "lastUpdated": "2026-03-05T10:00:00"
+}

@@ -1,0 +1,51 @@
+{
+  "agentId": "AGT-UG-KI-001",
+  "agentCode": "KIOSK-KLA-001",
+  "agentName": "Namwanje Kirabo",
+  "country": "Uganda",
+  "institutionType": "Kiosk",
+  "institutionName": "PostaUganda Kiosk",
+  "currency": "UGX",
+  "period": "2026-Q1",
+  "revenue": {
+    "cashInFees": 1140000.0,
+    "cashOutFees": 830000.0,
+    "billPaymentFees": 0.0,
+    "airtimeSales": 165000.0,
+    "commissions": 2700000.0,
+    "insurancePremiums": 0.0,
+    "total": 4835000.0
+  },
+  "expenses": {
+    "floatManagementCosts": 180000.0,
+    "operationalCosts": 120000.0,
+    "staffCosts": 360000.0,
+    "rentalCosts": 150000.0,
+    "total": 810000.0
+  },
+  "profit": {
+    "grossProfit": 4025000.0,
+    "netProfit": 4025000.0,
+    "profitMarginPercent": 83.25
+  },
+  "monthlyBreakdown": [
+    {
+      "month": "Jan",
+      "revenue": 1450000.0,
+      "expenses": 270000.0,
+      "profit": 1180000.0
+    },
+    {
+      "month": "Feb",
+      "revenue": 1545000.0,
+      "expenses": 270000.0,
+      "profit": 1275000.0
+    },
+    {
+      "month": "Mar",
+      "revenue": 1840000.0,
+      "expenses": 270000.0,
+      "profit": 1570000.0
+    }
+  ]
+}

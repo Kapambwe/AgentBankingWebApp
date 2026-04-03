@@ -1,0 +1,404 @@
+[
+    {
+        "productId": "INS-001",
+        "productCode": "AGT-LIFE-001",
+        "productName": "Agent Life Cover",
+        "description": "Comprehensive life insurance for registered agents. Provides financial security for your family in the event of death or permanent disability.",
+        "coverType": 0,
+        "minPremium": 150.0,
+        "maxCoverAmount": 500000.0,
+        "premiumFrequency": "Monthly",
+        "currency": "ZMW",
+        "benefits": [
+            "Death benefit up to ZMW 500,000",
+            "Permanent disability cover",
+            "Terminal illness advance",
+            "Funeral benefit ZMW 15,000",
+            "Spouse cover included"
+        ],
+        "exclusions": [
+            "Pre-existing conditions (first 12 months)",
+            "Self-inflicted injuries",
+            "War or civil unrest"
+        ],
+        "isAvailableToAgents": true,
+        "insurerName": "Madison Life Insurance",
+        "insurerLogoUrl": ""
+    },
+    {
+        "productId": "INS-002",
+        "productCode": "AGT-HEALTH-001",
+        "productName": "Agent Health Shield",
+        "description": "Inpatient and outpatient health cover for the agent and dependants. Cashless treatment at all partner hospitals across Zambia.",
+        "coverType": 1,
+        "minPremium": 350.0,
+        "maxCoverAmount": 200000.0,
+        "premiumFrequency": "Monthly",
+        "currency": "ZMW",
+        "benefits": [
+            "Inpatient cover up to ZMW 200,000/year",
+            "Outpatient consultations",
+            "Maternity cover ZMW 20,000",
+            "Dental & optical (limited)",
+            "Cover for spouse & 3 children",
+            "Cashless at 150+ partner hospitals"
+        ],
+        "exclusions": [
+            "Cosmetic surgery",
+            "Chronic conditions (first 6 months)",
+            "Experimental treatment"
+        ],
+        "isAvailableToAgents": true,
+        "insurerName": "ZSIC Life",
+        "insurerLogoUrl": ""
+    },
+    {
+        "productId": "INS-003",
+        "productCode": "AGT-PROP-001",
+        "productName": "Business Property Protect",
+        "description": "Protects your agent business premises, stock, equipment and cash against fire, theft, flood and other perils.",
+        "coverType": 2,
+        "minPremium": 200.0,
+        "maxCoverAmount": 300000.0,
+        "premiumFrequency": "Monthly",
+        "currency": "ZMW",
+        "benefits": [
+            "Building & structure cover",
+            "Stock and inventory cover",
+            "Electronic equipment cover",
+            "Cash in transit cover",
+            "Consequential loss cover"
+        ],
+        "exclusions": [
+            "Wear and tear",
+            "Loss due to power surge (without surge protector)",
+            "Intentional damage by owner"
+        ],
+        "isAvailableToAgents": true,
+        "insurerName": "Professional Insurance Corporation Zambia",
+        "insurerLogoUrl": ""
+    },
+    {
+        "productId": "INS-004",
+        "productCode": "AGT-ACC-001",
+        "productName": "Personal Accident Cover",
+        "description": "24-hour personal accident cover for the agent. Pays a lump sum for accidental death or disability and weekly benefit for temporary disablement.",
+        "coverType": 5,
+        "minPremium": 80.0,
+        "maxCoverAmount": 150000.0,
+        "premiumFrequency": "Monthly",
+        "currency": "ZMW",
+        "benefits": [
+            "Accidental death benefit ZMW 150,000",
+            "Permanent total disability ZMW 150,000",
+            "Temporary disablement weekly benefit",
+            "Medical expenses reimbursement ZMW 10,000",
+            "Worldwide cover"
+        ],
+        "exclusions": [
+            "Professional sports injuries",
+            "Aviation (non-commercial)",
+            "Alcohol-related accidents"
+        ],
+        "isAvailableToAgents": true,
+        "insurerName": "Mayfair Insurance Zambia",
+        "insurerLogoUrl": ""
+    },
+    {
+        "productId": "INS-005",
+        "productCode": "AGT-CROP-001",
+        "productName": "Crop & Livestock Cover",
+        "description": "Designed for rural agents who also farm. Protects against crop failure due to drought, flood, pests and livestock losses.",
+        "coverType": 3,
+        "minPremium": 120.0,
+        "maxCoverAmount": 100000.0,
+        "premiumFrequency": "Seasonal",
+        "currency": "ZMW",
+        "benefits": [
+            "Drought and flood crop loss cover",
+            "Livestock mortality cover",
+            "Input cost recovery",
+            "Market price guarantee (optional add-on)"
+        ],
+        "exclusions": [
+            "Wilful destruction",
+            "Non-registered crop varieties",
+            "Losses not reported within 14 days"
+        ],
+        "isAvailableToAgents": true,
+        "insurerName": "ZSIC General",
+        "insurerLogoUrl": ""
+    },
+    {
+        "productId": "INS-006",
+        "productCode": "AGT-BI-001",
+        "productName": "Business Interruption Cover",
+        "description": "Compensates for loss of income when your agent business is forced to stop or reduce operations due to an insured peril.",
+        "coverType": 4,
+        "minPremium": 180.0,
+        "maxCoverAmount": 250000.0,
+        "premiumFrequency": "Monthly",
+        "currency": "ZMW",
+        "benefits": [
+            "Lost revenue cover for up to 12 months",
+            "Fixed costs (rent, salaries) cover",
+            "Increased cost of working cover",
+            "72-hour waiting period only"
+        ],
+        "exclusions": [
+            "Utility disruptions lasting less than 72 hours",
+            "Government regulatory closure",
+            "Losses due to pandemics (unless endorsed)"
+        ],
+        "isAvailableToAgents": true,
+        "insurerName": "Professional Insurance Corporation Zambia",
+        "insurerLogoUrl": ""
+    },
+    {
+        "productId": "MIC-001",
+        "productCode": "MIC-FUN-001",
+        "productName": "Funeral Cover Lite",
+        "description": "Affordable funeral cover for low-income customers. Instant policy issuance at any agent. Covers funeral expenses for the policyholder and immediate family.",
+        "coverType": 0,
+        "minPremium": 15.0,
+        "maxCoverAmount": 5000.0,
+        "premiumFrequency": "Monthly",
+        "currency": "ZMW",
+        "benefits": [
+            "Funeral benefit up to ZMW 5,000",
+            "Spouse & 2 children included",
+            "48-hour claim payout",
+            "No medical exam required",
+            "Cover starts immediately"
+        ],
+        "exclusions": [
+            "Suicide within 6 months of enrollment",
+            "Deaths due to pre-existing conditions (first 3 months)"
+        ],
+        "isAvailableToAgents": true,
+        "insurerName": "Madison Life Insurance",
+        "insurerLogoUrl": "",
+        "isMicroInsurance": true,
+        "isInstantIssuance": true,
+        "agentSells": true,
+        "allowedPaymentIntervals": [
+            "Daily",
+            "Weekly",
+            "Monthly"
+        ],
+        "agentCommissionRate": 12.0,
+        "isAvailableToInformalSector": true
+    },
+    {
+        "productId": "MIC-002",
+        "productCode": "MIC-HCASH-001",
+        "productName": "Hospital Cash Daily",
+        "description": "Pays a fixed daily cash benefit for every night spent in hospital. Simple, transparent, and affordable for informal sector workers.",
+        "coverType": 1,
+        "minPremium": 25.0,
+        "maxCoverAmount": 36500.0,
+        "premiumFrequency": "Monthly",
+        "currency": "ZMW",
+        "benefits": [
+            "ZMW 200 cash per night in hospital (up to 30 nights/year)",
+            "No receipts or bills required \u2013 just admission letter",
+            "Covers all illnesses and accidents",
+            "Cover from day one",
+            "SMS confirmation within minutes"
+        ],
+        "exclusions": [
+            "Elective or cosmetic procedures",
+            "Hospital stays less than 24 hours"
+        ],
+        "isAvailableToAgents": true,
+        "insurerName": "ZSIC Life",
+        "insurerLogoUrl": "",
+        "isMicroInsurance": true,
+        "isInstantIssuance": true,
+        "agentSells": true,
+        "allowedPaymentIntervals": [
+            "Daily",
+            "Weekly",
+            "Monthly"
+        ],
+        "agentCommissionRate": 10.0,
+        "isAvailableToInformalSector": true
+    },
+    {
+        "productId": "MIC-003",
+        "productCode": "MIC-HARVEST-001",
+        "productName": "Harvest Guard Mini",
+        "description": "Pay-as-you-grow micro cover for smallholder farmers. Weekly premium fits the irregular income of farming households. Covers inputs and limited crop losses.",
+        "coverType": 3,
+        "minPremium": 10.0,
+        "maxCoverAmount": 2000.0,
+        "premiumFrequency": "Weekly",
+        "currency": "ZMW",
+        "benefits": [
+            "Input costs (seed, fertiliser) recovery up to ZMW 2,000",
+            "Drought and flood cover",
+            "Pest and disease cover",
+            "Payout within 14 days of verified loss",
+            "No farm inspection required for small claims"
+        ],
+        "exclusions": [
+            "Non-registered crop varieties",
+            "Losses not reported within 7 days"
+        ],
+        "isAvailableToAgents": true,
+        "insurerName": "ZSIC General",
+        "insurerLogoUrl": "",
+        "isMicroInsurance": true,
+        "isInstantIssuance": true,
+        "agentSells": true,
+        "allowedPaymentIntervals": [
+            "Weekly",
+            "Seasonal"
+        ],
+        "agentCommissionRate": 8.0,
+        "isAvailableToInformalSector": true
+    },
+    {
+        "productId": "MIC-004",
+        "productCode": "MIC-ACC-001",
+        "productName": "Accident Protect Plus",
+        "description": "Low-cost accidental death and disability cover for informal workers, vendors, and small business owners. Instant registration via mobile phone.",
+        "coverType": 5,
+        "minPremium": 20.0,
+        "maxCoverAmount": 20000.0,
+        "premiumFrequency": "Monthly",
+        "currency": "ZMW",
+        "benefits": [
+            "Accidental death benefit ZMW 20,000",
+            "Permanent disability ZMW 20,000",
+            "Temporary disability ZMW 500/week (up to 13 weeks)",
+            "Emergency medical ZMW 2,000",
+            "24/7 worldwide cover"
+        ],
+        "exclusions": [
+            "Self-inflicted injuries",
+            "Injuries under influence of alcohol/drugs"
+        ],
+        "isAvailableToAgents": true,
+        "insurerName": "Mayfair Insurance Zambia",
+        "insurerLogoUrl": "",
+        "isMicroInsurance": true,
+        "isInstantIssuance": true,
+        "agentSells": true,
+        "allowedPaymentIntervals": [
+            "Daily",
+            "Weekly",
+            "Monthly"
+        ],
+        "agentCommissionRate": 10.0,
+        "isAvailableToInformalSector": true
+    },
+    {
+        "productId": "MIC-005",
+        "productCode": "MIC-FIRE-001",
+        "productName": "Home Fire & Theft Mini",
+        "description": "Protects low-income households against loss of essential contents due to fire, theft, or flooding. Very affordable monthly premium.",
+        "coverType": 2,
+        "minPremium": 12.0,
+        "maxCoverAmount": 10000.0,
+        "premiumFrequency": "Monthly",
+        "currency": "ZMW",
+        "benefits": [
+            "Household contents up to ZMW 10,000",
+            "Fire, lightning, and explosion",
+            "Burglary and theft",
+            "Flooding and water damage",
+            "Rapid 5-day assessment"
+        ],
+        "exclusions": [
+            "Jewellery and cash",
+            "Electronics over ZMW 3,000 (unless specifically declared)",
+            "Damage from riots"
+        ],
+        "isAvailableToAgents": true,
+        "insurerName": "Professional Insurance Corporation Zambia",
+        "insurerLogoUrl": "",
+        "isMicroInsurance": true,
+        "isInstantIssuance": true,
+        "agentSells": true,
+        "allowedPaymentIntervals": [
+            "Daily",
+            "Weekly",
+            "Monthly"
+        ],
+        "agentCommissionRate": 10.0,
+        "isAvailableToInformalSector": true
+    },
+    {
+        "productId": "MIC-006",
+        "productCode": "MIC-STALL-001",
+        "productName": "Market Stall Cover",
+        "description": "Designed for market traders and spaza shop owners. Covers stall contents, stock, and trading equipment against fire, theft, and flood damage. Low daily premiums fit the income rhythm of informal traders.",
+        "coverType": 2,
+        "minPremium": 2.0,
+        "maxCoverAmount": 8000.0,
+        "premiumFrequency": "Daily",
+        "currency": "ZMW",
+        "benefits": [
+            "Stock and merchandise up to ZMW 8,000",
+            "Stall structure and fittings",
+            "Fire, theft, and flood cover",
+            "Claim paid within 5 working days",
+            "No formal business registration required"
+        ],
+        "exclusions": [
+            "Cash and mobile money balances",
+            "Perishable goods beyond 24 hours",
+            "Damage during civil unrest"
+        ],
+        "isAvailableToAgents": true,
+        "insurerName": "Professional Insurance Corporation Zambia",
+        "insurerLogoUrl": "",
+        "isMicroInsurance": true,
+        "isInstantIssuance": true,
+        "agentSells": true,
+        "allowedPaymentIntervals": [
+            "Daily",
+            "Weekly",
+            "Monthly"
+        ],
+        "agentCommissionRate": 12.0,
+        "isAvailableToInformalSector": true
+    },
+    {
+        "productId": "MIC-007",
+        "productCode": "MIC-INCOME-001",
+        "productName": "Vendor Income Guard",
+        "description": "Provides a daily cash payout when an informal worker cannot trade due to hospitalisation, injury, or weather-related stall closure. Covers street vendors, market sellers, and small-scale traders who earn day by day.",
+        "coverType": 5,
+        "minPremium": 3.0,
+        "maxCoverAmount": 15000.0,
+        "premiumFrequency": "Daily",
+        "currency": "ZMW",
+        "benefits": [
+            "ZMW 150/day inability-to-trade benefit (up to 30 days/year)",
+            "Accidental death ZMW 15,000",
+            "Hospitalisation ZMW 300/night (up to 20 nights)",
+            "No paperwork for claims under ZMW 1,000",
+            "Cover starts same day"
+        ],
+        "exclusions": [
+            "Voluntary absence from trading",
+            "Pre-existing chronic illness (first 60 days)",
+            "Injuries under influence of alcohol"
+        ],
+        "isAvailableToAgents": true,
+        "insurerName": "Mayfair Insurance Zambia",
+        "insurerLogoUrl": "",
+        "isMicroInsurance": true,
+        "isInstantIssuance": true,
+        "agentSells": true,
+        "allowedPaymentIntervals": [
+            "Daily",
+            "Weekly",
+            "Monthly"
+        ],
+        "agentCommissionRate": 15.0,
+        "isAvailableToInformalSector": true
+    }
+]

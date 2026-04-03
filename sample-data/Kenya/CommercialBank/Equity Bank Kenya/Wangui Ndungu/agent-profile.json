@@ -1,0 +1,31 @@
+{
+  "agentId": "AGT-KE-CB-001",
+  "agentCode": "EQB-KE-NBI-001",
+  "agentName": "Wangui Ndungu",
+  "businessName": "Ndungu Equity Agent Banking",
+  "agentType": 1,
+  "status": 0,
+  "phoneNumber": "+254712345678",
+  "email": "wangui.ndungu@example.co.ke",
+  "location": "Nairobi, Kenya",
+  "country": "Kenya",
+  "currency": "KES",
+  "dailyCashInLimit": 500000.00,
+  "dailyCashOutLimit": 300000.00,
+  "transactionLimit": 50000.00,
+  "bankName": "Equity Bank Kenya",
+  "settlementAccount": "0050123456",
+  "onboardedDate": "2023-11-01T00:00:00",
+  "commissionRate": 1.5,
+  "authorisedServices": [
+    "Cash In",
+    "Cash Out",
+    "Bill Payment",
+    "Airtime Purchase",
+    "Balance Inquiry",
+    "Mini Statement",
+    "Account Opening",
+    "Loan Repayment",
+    "Insurance Premium"
+  ]
+}

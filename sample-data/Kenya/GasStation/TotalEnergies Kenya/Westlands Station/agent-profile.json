@@ -1,0 +1,27 @@
+{
+  "agentId": "AGT-KE-GS-001",
+  "agentCode": "GAS-NBI-001",
+  "agentName": "Westlands Station",
+  "businessName": "TotalEnergies Kenya - Westlands Station",
+  "agentType": 6,
+  "status": 0,
+  "phoneNumber": "+254755200001",
+  "email": "total.westlands@example.co.ke",
+  "location": "Westlands, Nairobi, Kenya",
+  "country": "Kenya",
+  "currency": "KES",
+  "dailyCashInLimit": 600000.0,
+  "dailyCashOutLimit": 400000.0,
+  "transactionLimit": 60000.0,
+  "bankName": "Absa Bank Kenya",
+  "settlementAccount": "0090200005",
+  "onboardedDate": "2023-12-01T00:00:00",
+  "commissionRate": 1.0,
+  "authorisedServices": [
+    "Cash In",
+    "Cash Out",
+    "Bill Payment",
+    "Airtime Purchase",
+    "Balance Inquiry"
+  ]
+}

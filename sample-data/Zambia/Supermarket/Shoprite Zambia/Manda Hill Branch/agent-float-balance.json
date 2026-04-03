@@ -1,0 +1,13 @@
+{
+  "agentId": "AGT-ZM-SM-001",
+  "agentCode": "SRZT-LUS-001",
+  "currency": "ZMW",
+  "currentBalance": 85000.0,
+  "minimumBalance": 10000.0,
+  "maximumBalance": 500000.0,
+  "dailyCashInUsed": 52000.0,
+  "dailyCashOutUsed": 38000.0,
+  "dailyCashInLimit": 200000.0,
+  "dailyCashOutLimit": 150000.0,
+  "lastUpdated": "2026-03-05T10:00:00"
+}

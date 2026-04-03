@@ -1,0 +1,13 @@
+{
+  "agentId": "AGT-KE-SH-001",
+  "agentCode": "SHOP-KSM-001",
+  "currency": "KES",
+  "currentBalance": 88000.0,
+  "minimumBalance": 10000.0,
+  "maximumBalance": 600000.0,
+  "dailyCashInUsed": 55000.0,
+  "dailyCashOutUsed": 36000.0,
+  "dailyCashInLimit": 250000.0,
+  "dailyCashOutLimit": 150000.0,
+  "lastUpdated": "2026-03-05T10:00:00"
+}

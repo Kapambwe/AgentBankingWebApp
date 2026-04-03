@@ -1,0 +1,30 @@
+{
+  "agentId": "AGT-ZM-CB-001",
+  "agentCode": "FNB-ZM-LUS-001",
+  "agentName": "Mukuka Mutale",
+  "businessName": "Mutale General Dealers",
+  "agentType": 1,
+  "status": 0,
+  "phoneNumber": "+260966543210",
+  "email": "mukuka.mutale@example.co.zm",
+  "location": "Lusaka, Zambia",
+  "country": "Zambia",
+  "currency": "ZMW",
+  "dailyCashInLimit": 100000.00,
+  "dailyCashOutLimit": 75000.00,
+  "transactionLimit": 10000.00,
+  "bankName": "First National Bank Zambia",
+  "settlementAccount": "6200123456",
+  "onboardedDate": "2024-06-01T00:00:00",
+  "commissionRate": 1.5,
+  "authorisedServices": [
+    "Cash In",
+    "Cash Out",
+    "Bill Payment",
+    "Airtime Purchase",
+    "Balance Inquiry",
+    "Mini Statement",
+    "Account Opening",
+    "Loan Repayment"
+  ]
+}

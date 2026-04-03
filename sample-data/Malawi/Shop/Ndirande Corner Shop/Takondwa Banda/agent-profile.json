@@ -1,0 +1,27 @@
+{
+  "agentId": "AGT-MW-SH-001",
+  "agentCode": "SHOP-BLN-001",
+  "agentName": "Takondwa Banda",
+  "businessName": "Ndirande Corner Shop - Takondwa Banda",
+  "agentType": 1,
+  "status": 0,
+  "phoneNumber": "+265991700001",
+  "email": "takondwa.banda@example.co.mw",
+  "location": "Ndirande Township, Blantyre, Malawi",
+  "country": "Malawi",
+  "currency": "MWK",
+  "dailyCashInLimit": 1200000.0,
+  "dailyCashOutLimit": 750000.0,
+  "transactionLimit": 120000.0,
+  "bankName": "First Capital Bank Malawi",
+  "settlementAccount": "1040300003",
+  "onboardedDate": "2024-06-10T00:00:00",
+  "commissionRate": 1.5,
+  "authorisedServices": [
+    "Cash In",
+    "Cash Out",
+    "Bill Payment",
+    "Airtime Purchase",
+    "Balance Inquiry"
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "agentId": "AGT-UG-GS-001",
+  "agentCode": "GAS-KLA-001",
+  "agentName": "Jinja Road Station",
+  "country": "Uganda",
+  "institutionType": "GasStation",
+  "institutionName": "Total Uganda",
+  "currency": "UGX",
+  "period": "2026-Q1",
+  "revenue": {
+    "cashInFees": 3600000.0,
+    "cashOutFees": 2600000.0,
+    "billPaymentFees": 1100000.0,
+    "airtimeSales": 400000.0,
+    "commissions": 8400000.0,
+    "insurancePremiums": 0.0,
+    "total": 16100000.0
+  },
+  "expenses": {
+    "floatManagementCosts": 540000.0,
+    "operationalCosts": 340000.0,
+    "staffCosts": 0.0,
+    "rentalCosts": 0.0,
+    "total": 880000.0
+  },
+  "profit": {
+    "grossProfit": 15220000.0,
+    "netProfit": 15220000.0,
+    "profitMarginPercent": 94.53
+  },
+  "monthlyBreakdown": [
+    {
+      "month": "Jan",
+      "revenue": 4860000.0,
+      "expenses": 290000.0,
+      "profit": 4570000.0
+    },
+    {
+      "month": "Feb",
+      "revenue": 5180000.0,
+      "expenses": 295000.0,
+      "profit": 4885000.0
+    },
+    {
+      "month": "Mar",
+      "revenue": 6060000.0,
+      "expenses": 295000.0,
+      "profit": 5765000.0
+    }
+  ]
+}

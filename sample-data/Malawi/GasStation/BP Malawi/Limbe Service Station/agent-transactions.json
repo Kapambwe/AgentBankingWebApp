@@ -1,0 +1,80 @@
+[
+  {
+    "transactionId": "txn-agt-mw-gs-001-001",
+    "referenceNumber": "CI20260305001",
+    "transactionType": "Cash In",
+    "customerPhone": "+265991111101",
+    "customerName": "Mwayi Gondwe",
+    "amount": 200000.0,
+    "currency": "MWK",
+    "fee": 1000.0,
+    "commission": 2000.0,
+    "status": "Completed",
+    "transactionDate": "2026-03-05T08:00:00"
+  },
+  {
+    "transactionId": "txn-agt-mw-gs-001-002",
+    "referenceNumber": "CO20260305002",
+    "transactionType": "Cash Out",
+    "customerPhone": "+265991111102",
+    "customerName": "Tisungane Jere",
+    "amount": 150000.0,
+    "currency": "MWK",
+    "fee": 1200.0,
+    "commission": 1500.0,
+    "status": "Completed",
+    "transactionDate": "2026-03-05T08:35:00"
+  },
+  {
+    "transactionId": "txn-agt-mw-gs-001-003",
+    "referenceNumber": "BP20260305003",
+    "transactionType": "Bill Payment",
+    "customerPhone": "+265991111103",
+    "customerName": "Mwayi Gondwe",
+    "amount": 48000.0,
+    "currency": "MWK",
+    "fee": 528.0,
+    "commission": 480.0,
+    "status": "Completed",
+    "transactionDate": "2026-03-05T09:10:00"
+  },
+  {
+    "transactionId": "txn-agt-mw-gs-001-004",
+    "referenceNumber": "CI20260305004",
+    "transactionType": "Cash In",
+    "customerPhone": "+265991111104",
+    "customerName": "Tisungane Jere",
+    "amount": 250000.0,
+    "currency": "MWK",
+    "fee": 1250.0,
+    "commission": 2500.0,
+    "status": "Completed",
+    "transactionDate": "2026-03-05T10:00:00"
+  },
+  {
+    "transactionId": "txn-agt-mw-gs-001-005",
+    "referenceNumber": "CO20260304001",
+    "transactionType": "Cash Out",
+    "customerPhone": "+265991111105",
+    "customerName": "Mwayi Gondwe",
+    "amount": 180000.0,
+    "currency": "MWK",
+    "fee": 1440.0,
+    "commission": 1800.0,
+    "status": "Completed",
+    "transactionDate": "2026-03-04T08:00:00"
+  },
+  {
+    "transactionId": "txn-agt-mw-gs-001-006",
+    "referenceNumber": "CI20260304002",
+    "transactionType": "Cash In",
+    "customerPhone": "+265991111106",
+    "customerName": "Tisungane Jere",
+    "amount": 280000.0,
+    "currency": "MWK",
+    "fee": 1400.0,
+    "commission": 2800.0,
+    "status": "Completed",
+    "transactionDate": "2026-03-04T09:00:00"
+  }
+]

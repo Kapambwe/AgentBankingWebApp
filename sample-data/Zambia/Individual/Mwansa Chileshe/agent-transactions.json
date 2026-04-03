@@ -1,0 +1,67 @@
+[
+  {
+    "transactionId": "txn-agt-zm-in-001-001",
+    "referenceNumber": "CI20260305001",
+    "transactionType": "Cash In",
+    "customerPhone": "+260955500001",
+    "customerName": "Chanda Mutale",
+    "amount": 800.0,
+    "currency": "ZMW",
+    "fee": 4.0,
+    "commission": 12.0,
+    "status": "Completed",
+    "transactionDate": "2026-03-05T08:10:00"
+  },
+  {
+    "transactionId": "txn-agt-zm-in-001-002",
+    "referenceNumber": "CO20260305002",
+    "transactionType": "Cash Out",
+    "customerPhone": "+260955500002",
+    "customerName": "Lubasi Mwaba",
+    "amount": 600.0,
+    "currency": "ZMW",
+    "fee": 4.8,
+    "commission": 9.0,
+    "status": "Completed",
+    "transactionDate": "2026-03-05T09:00:00"
+  },
+  {
+    "transactionId": "txn-agt-zm-in-001-003",
+    "referenceNumber": "AT20260305003",
+    "transactionType": "Airtime",
+    "customerPhone": "+260955500003",
+    "customerName": "Chanda Mutale",
+    "amount": 30.0,
+    "currency": "ZMW",
+    "fee": 0.0,
+    "commission": 0.45,
+    "status": "Completed",
+    "transactionDate": "2026-03-05T10:00:00"
+  },
+  {
+    "transactionId": "txn-agt-zm-in-001-004",
+    "referenceNumber": "CI20260304001",
+    "transactionType": "Cash In",
+    "customerPhone": "+260955500004",
+    "customerName": "Lubasi Mwaba",
+    "amount": 1200.0,
+    "currency": "ZMW",
+    "fee": 6.0,
+    "commission": 18.0,
+    "status": "Completed",
+    "transactionDate": "2026-03-04T08:30:00"
+  },
+  {
+    "transactionId": "txn-agt-zm-in-001-005",
+    "referenceNumber": "CO20260303001",
+    "transactionType": "Cash Out",
+    "customerPhone": "+260955500005",
+    "customerName": "Chanda Mutale",
+    "amount": 900.0,
+    "currency": "ZMW",
+    "fee": 7.2,
+    "commission": 13.5,
+    "status": "Completed",
+    "transactionDate": "2026-03-03T09:00:00"
+  }
+]

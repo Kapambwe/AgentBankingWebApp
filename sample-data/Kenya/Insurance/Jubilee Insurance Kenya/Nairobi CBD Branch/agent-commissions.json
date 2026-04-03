@@ -1,0 +1,86 @@
+[
+  {
+    "commissionId": "com-agt-ke-ins-001-001",
+    "agentId": "AGT-KE-INS-001",
+    "transactionReference": "IP20260305001",
+    "transactionType": "Insurance Premium",
+    "transactionAmount": 17500.0,
+    "commissionAmount": 350.0,
+    "currency": "KES",
+    "earnedDate": "2026-03-05T08:00:00",
+    "isPaid": false,
+    "paidDate": null
+  },
+  {
+    "commissionId": "com-agt-ke-ins-001-002",
+    "agentId": "AGT-KE-INS-001",
+    "transactionReference": "CI20260305002",
+    "transactionType": "Cash In",
+    "transactionAmount": 38000.0,
+    "commissionAmount": 760.0,
+    "currency": "KES",
+    "earnedDate": "2026-03-05T08:30:00",
+    "isPaid": false,
+    "paidDate": null
+  },
+  {
+    "commissionId": "com-agt-ke-ins-001-003",
+    "agentId": "AGT-KE-INS-001",
+    "transactionReference": "IP20260305003",
+    "transactionType": "Insurance Premium",
+    "transactionAmount": 24000.0,
+    "commissionAmount": 480.0,
+    "currency": "KES",
+    "earnedDate": "2026-03-05T09:00:00",
+    "isPaid": false,
+    "paidDate": null
+  },
+  {
+    "commissionId": "com-agt-ke-ins-001-004",
+    "agentId": "AGT-KE-INS-001",
+    "transactionReference": "CO20260305004",
+    "transactionType": "Cash Out",
+    "transactionAmount": 30000.0,
+    "commissionAmount": 600.0,
+    "currency": "KES",
+    "earnedDate": "2026-03-05T09:30:00",
+    "isPaid": false,
+    "paidDate": null
+  },
+  {
+    "commissionId": "com-agt-ke-ins-001-005",
+    "agentId": "AGT-KE-INS-001",
+    "transactionReference": "IP20260305005",
+    "transactionType": "Insurance Premium",
+    "transactionAmount": 13000.0,
+    "commissionAmount": 260.0,
+    "currency": "KES",
+    "earnedDate": "2026-03-05T10:00:00",
+    "isPaid": true,
+    "paidDate": "2026-03-06T09:00:00"
+  },
+  {
+    "commissionId": "com-agt-ke-ins-001-006",
+    "agentId": "AGT-KE-INS-001",
+    "transactionReference": "IP20260304001",
+    "transactionType": "Insurance Premium",
+    "transactionAmount": 19500.0,
+    "commissionAmount": 390.0,
+    "currency": "KES",
+    "earnedDate": "2026-03-04T08:00:00",
+    "isPaid": true,
+    "paidDate": "2026-03-05T09:00:00"
+  },
+  {
+    "commissionId": "com-agt-ke-ins-001-007",
+    "agentId": "AGT-KE-INS-001",
+    "transactionReference": "CI20260304002",
+    "transactionType": "Cash In",
+    "transactionAmount": 45000.0,
+    "commissionAmount": 900.0,
+    "currency": "KES",
+    "earnedDate": "2026-03-04T09:00:00",
+    "isPaid": true,
+    "paidDate": "2026-03-05T09:00:00"
+  }
+]

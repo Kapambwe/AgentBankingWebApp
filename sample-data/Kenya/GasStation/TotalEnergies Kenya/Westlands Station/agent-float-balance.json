@@ -1,0 +1,13 @@
+{
+  "agentId": "AGT-KE-GS-001",
+  "agentCode": "GAS-NBI-001",
+  "currency": "KES",
+  "currentBalance": 240000.0,
+  "minimumBalance": 30000.0,
+  "maximumBalance": 1500000.0,
+  "dailyCashInUsed": 150000.0,
+  "dailyCashOutUsed": 98000.0,
+  "dailyCashInLimit": 600000.0,
+  "dailyCashOutLimit": 400000.0,
+  "lastUpdated": "2026-03-05T10:00:00"
+}

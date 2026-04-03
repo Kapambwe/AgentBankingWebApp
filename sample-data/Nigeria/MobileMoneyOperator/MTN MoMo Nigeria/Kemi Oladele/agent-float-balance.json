@@ -1,0 +1,13 @@
+{
+  "agentId": "AGT-NG-MM-001",
+  "agentCode": "MTN-NG-ABJ-001",
+  "currency": "NGN",
+  "currentBalance": 950000.00,
+  "minimumBalance": 100000.00,
+  "maximumBalance": 6000000.00,
+  "dailyCashInUsed": 650000.00,
+  "dailyCashOutUsed": 420000.00,
+  "dailyCashInLimit": 3000000.00,
+  "dailyCashOutLimit": 2000000.00,
+  "lastUpdated": "2026-03-05T09:45:00"
+}

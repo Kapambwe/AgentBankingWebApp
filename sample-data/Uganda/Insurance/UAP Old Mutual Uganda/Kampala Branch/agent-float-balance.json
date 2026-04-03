@@ -1,0 +1,13 @@
+{
+  "agentId": "AGT-UG-INS-001",
+  "agentCode": "UAP-KLA-001",
+  "currency": "UGX",
+  "currentBalance": 7500000.0,
+  "minimumBalance": 900000.0,
+  "maximumBalance": 45000000.0,
+  "dailyCashInUsed": 4800000.0,
+  "dailyCashOutUsed": 3200000.0,
+  "dailyCashInLimit": 18000000.0,
+  "dailyCashOutLimit": 11000000.0,
+  "lastUpdated": "2026-03-05T10:00:00"
+}

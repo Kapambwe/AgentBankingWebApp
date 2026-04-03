@@ -1,0 +1,28 @@
+{
+  "agentId": "AGT-NG-SM-001",
+  "agentCode": "SRNG-LAG-001",
+  "agentName": "Ikeja Branch",
+  "businessName": "Shoprite Nigeria - Ikeja Branch",
+  "agentType": 3,
+  "status": 0,
+  "phoneNumber": "+2348030001001",
+  "email": "shoprite.ikeja@example.ng",
+  "location": "Ikeja City Mall, Lagos, Nigeria",
+  "country": "Nigeria",
+  "currency": "NGN",
+  "dailyCashInLimit": 8000000.0,
+  "dailyCashOutLimit": 5000000.0,
+  "transactionLimit": 800000.0,
+  "bankName": "Guaranty Trust Bank",
+  "settlementAccount": "3020300001",
+  "onboardedDate": "2023-11-01T00:00:00",
+  "commissionRate": 1.0,
+  "authorisedServices": [
+    "Cash In",
+    "Cash Out",
+    "Bill Payment",
+    "Airtime Purchase",
+    "Balance Inquiry",
+    "Account Opening"
+  ]
+}

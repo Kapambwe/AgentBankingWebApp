@@ -1,0 +1,36 @@
+{
+  "agentId": "AGT-KE-MM-001",
+  "agentCode": "MPESA-KE-KSM-001",
+  "agentName": "Mwangi M-Pesa Agent",
+  "country": "Kenya",
+  "institutionType": "MobileMoneyOperator",
+  "institutionName": "Safaricom M-Pesa",
+  "currency": "KES",
+  "period": "2026-Q1",
+  "revenue": {
+    "cashInFees": 12400.00,
+    "cashOutFees": 9600.00,
+    "billPaymentFees": 4200.00,
+    "airtimeSales": 1800.00,
+    "commissions": 28500.00,
+    "insurancePremiums": 0.00,
+    "total": 56500.00
+  },
+  "expenses": {
+    "floatManagementCosts": 3500.00,
+    "operationalCosts": 2800.00,
+    "staffCosts": 12000.00,
+    "rentalCosts": 5500.00,
+    "total": 23800.00
+  },
+  "profit": {
+    "grossProfit": 32700.00,
+    "netProfit": 32700.00,
+    "profitMarginPercent": 57.88
+  },
+  "monthlyBreakdown": [
+    { "month": "Jan", "revenue": 17400.00, "expenses": 7500.00, "profit": 9900.00 },
+    { "month": "Feb", "revenue": 18700.00, "expenses": 7900.00, "profit": 10800.00 },
+    { "month": "Mar", "revenue": 20400.00, "expenses": 8400.00, "profit": 12000.00 }
+  ]
+}

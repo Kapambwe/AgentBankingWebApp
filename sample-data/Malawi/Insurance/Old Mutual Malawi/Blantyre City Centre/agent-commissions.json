@@ -1,0 +1,86 @@
+[
+  {
+    "commissionId": "com-agt-mw-ins-001-001",
+    "agentId": "AGT-MW-INS-001",
+    "transactionReference": "IP20260305001",
+    "transactionType": "Insurance Premium",
+    "transactionAmount": 68000.0,
+    "commissionAmount": 1360.0,
+    "currency": "MWK",
+    "earnedDate": "2026-03-05T08:00:00",
+    "isPaid": false,
+    "paidDate": null
+  },
+  {
+    "commissionId": "com-agt-mw-ins-001-002",
+    "agentId": "AGT-MW-INS-001",
+    "transactionReference": "CI20260305002",
+    "transactionType": "Cash In",
+    "transactionAmount": 155000.0,
+    "commissionAmount": 3100.0,
+    "currency": "MWK",
+    "earnedDate": "2026-03-05T08:30:00",
+    "isPaid": false,
+    "paidDate": null
+  },
+  {
+    "commissionId": "com-agt-mw-ins-001-003",
+    "agentId": "AGT-MW-INS-001",
+    "transactionReference": "IP20260305003",
+    "transactionType": "Insurance Premium",
+    "transactionAmount": 95000.0,
+    "commissionAmount": 1900.0,
+    "currency": "MWK",
+    "earnedDate": "2026-03-05T09:00:00",
+    "isPaid": false,
+    "paidDate": null
+  },
+  {
+    "commissionId": "com-agt-mw-ins-001-004",
+    "agentId": "AGT-MW-INS-001",
+    "transactionReference": "CO20260305004",
+    "transactionType": "Cash Out",
+    "transactionAmount": 120000.0,
+    "commissionAmount": 2400.0,
+    "currency": "MWK",
+    "earnedDate": "2026-03-05T09:30:00",
+    "isPaid": false,
+    "paidDate": null
+  },
+  {
+    "commissionId": "com-agt-mw-ins-001-005",
+    "agentId": "AGT-MW-INS-001",
+    "transactionReference": "IP20260305005",
+    "transactionType": "Insurance Premium",
+    "transactionAmount": 52000.0,
+    "commissionAmount": 1040.0,
+    "currency": "MWK",
+    "earnedDate": "2026-03-05T10:00:00",
+    "isPaid": true,
+    "paidDate": "2026-03-06T09:00:00"
+  },
+  {
+    "commissionId": "com-agt-mw-ins-001-006",
+    "agentId": "AGT-MW-INS-001",
+    "transactionReference": "IP20260304001",
+    "transactionType": "Insurance Premium",
+    "transactionAmount": 78000.0,
+    "commissionAmount": 1560.0,
+    "currency": "MWK",
+    "earnedDate": "2026-03-04T08:00:00",
+    "isPaid": true,
+    "paidDate": "2026-03-05T09:00:00"
+  },
+  {
+    "commissionId": "com-agt-mw-ins-001-007",
+    "agentId": "AGT-MW-INS-001",
+    "transactionReference": "CI20260304002",
+    "transactionType": "Cash In",
+    "transactionAmount": 180000.0,
+    "commissionAmount": 3600.0,
+    "currency": "MWK",
+    "earnedDate": "2026-03-04T09:00:00",
+    "isPaid": true,
+    "paidDate": "2026-03-05T09:00:00"
+  }
+]

@@ -1,0 +1,27 @@
+{
+  "agentId": "AGT-KE-SH-001",
+  "agentCode": "SHOP-KSM-001",
+  "agentName": "Otieno Okello",
+  "businessName": "Otieno Duka - Otieno Okello",
+  "agentType": 1,
+  "status": 0,
+  "phoneNumber": "+254733200001",
+  "email": "otieno.okello@example.co.ke",
+  "location": "Kondele Market, Kisumu, Kenya",
+  "country": "Kenya",
+  "currency": "KES",
+  "dailyCashInLimit": 250000.0,
+  "dailyCashOutLimit": 150000.0,
+  "transactionLimit": 25000.0,
+  "bankName": "Kenya Commercial Bank",
+  "settlementAccount": "0070200003",
+  "onboardedDate": "2024-03-01T00:00:00",
+  "commissionRate": 1.5,
+  "authorisedServices": [
+    "Cash In",
+    "Cash Out",
+    "Bill Payment",
+    "Airtime Purchase",
+    "Balance Inquiry"
+  ]
+}

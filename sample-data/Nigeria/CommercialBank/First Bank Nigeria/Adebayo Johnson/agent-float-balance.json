@@ -1,0 +1,13 @@
+{
+  "agentId": "AGT-NG-CB-001",
+  "agentCode": "FBN-NG-LAG-001",
+  "currency": "NGN",
+  "currentBalance": 1850000.00,
+  "minimumBalance": 200000.00,
+  "maximumBalance": 10000000.00,
+  "dailyCashInUsed": 1120000.00,
+  "dailyCashOutUsed": 780000.00,
+  "dailyCashInLimit": 5000000.00,
+  "dailyCashOutLimit": 3000000.00,
+  "lastUpdated": "2026-03-05T10:30:00"
+}

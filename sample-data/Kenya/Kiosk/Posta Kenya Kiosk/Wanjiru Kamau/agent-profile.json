@@ -1,0 +1,27 @@
+{
+  "agentId": "AGT-KE-KI-001",
+  "agentCode": "KIOSK-NBI-001",
+  "agentName": "Wanjiru Kamau",
+  "businessName": "Posta Kenya Kiosk - Wanjiru Kamau",
+  "agentType": 2,
+  "status": 0,
+  "phoneNumber": "+254722200001",
+  "email": "wanjiru.kamau@example.co.ke",
+  "location": "Gikomba Market, Nairobi, Kenya",
+  "country": "Kenya",
+  "currency": "KES",
+  "dailyCashInLimit": 300000.0,
+  "dailyCashOutLimit": 180000.0,
+  "transactionLimit": 30000.0,
+  "bankName": "Cooperative Bank of Kenya",
+  "settlementAccount": "0060200002",
+  "onboardedDate": "2024-01-20T00:00:00",
+  "commissionRate": 1.5,
+  "authorisedServices": [
+    "Cash In",
+    "Cash Out",
+    "Airtime Purchase",
+    "Balance Inquiry",
+    "Mini Statement"
+  ]
+}

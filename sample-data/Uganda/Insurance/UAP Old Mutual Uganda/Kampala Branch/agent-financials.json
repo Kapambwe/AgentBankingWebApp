@@ -1,0 +1,52 @@
+{
+  "agentId": "AGT-UG-INS-001",
+  "agentCode": "UAP-KLA-001",
+  "agentName": "Kampala Branch",
+  "country": "Uganda",
+  "institutionType": "Insurance",
+  "institutionName": "UAP Old Mutual Uganda",
+  "currency": "UGX",
+  "period": "2026-Q1",
+  "revenue": {
+    "cashInFees": 2160000.0,
+    "cashOutFees": 1370000.0,
+    "billPaymentFees": 540000.0,
+    "airtimeSales": 0.0,
+    "insurancePremiumCommissions": 9000000.0,
+    "commissions": 9000000.0,
+    "insurancePremiums": 0.0,
+    "total": 22070000.0
+  },
+  "expenses": {
+    "floatManagementCosts": 504000.0,
+    "operationalCosts": 340000.0,
+    "staffCosts": 1080000.0,
+    "rentalCosts": 587000.0,
+    "total": 2511000.0
+  },
+  "profit": {
+    "grossProfit": 19559000.0,
+    "netProfit": 19559000.0,
+    "profitMarginPercent": 88.62
+  },
+  "monthlyBreakdown": [
+    {
+      "month": "Jan",
+      "revenue": 6660000.0,
+      "expenses": 816000.0,
+      "profit": 5844000.0
+    },
+    {
+      "month": "Feb",
+      "revenue": 7100000.0,
+      "expenses": 837000.0,
+      "profit": 6263000.0
+    },
+    {
+      "month": "Mar",
+      "revenue": 8310000.0,
+      "expenses": 858000.0,
+      "profit": 7452000.0
+    }
+  ]
+}

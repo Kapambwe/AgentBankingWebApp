@@ -1,0 +1,27 @@
+{
+  "agentId": "AGT-MW-KI-001",
+  "agentCode": "KIOSK-LIL-001",
+  "agentName": "Mphatso Chirwa",
+  "businessName": "Malawi Posts Kiosk - Mphatso Chirwa",
+  "agentType": 2,
+  "status": 0,
+  "phoneNumber": "+265881500001",
+  "email": "mphatso.chirwa@example.co.mw",
+  "location": "Area 3, Lilongwe, Malawi",
+  "country": "Malawi",
+  "currency": "MWK",
+  "dailyCashInLimit": 1500000.0,
+  "dailyCashOutLimit": 900000.0,
+  "transactionLimit": 150000.0,
+  "bankName": "Standard Bank Malawi",
+  "settlementAccount": "1030300002",
+  "onboardedDate": "2024-04-15T00:00:00",
+  "commissionRate": 1.5,
+  "authorisedServices": [
+    "Cash In",
+    "Cash Out",
+    "Airtime Purchase",
+    "Balance Inquiry",
+    "Mini Statement"
+  ]
+}

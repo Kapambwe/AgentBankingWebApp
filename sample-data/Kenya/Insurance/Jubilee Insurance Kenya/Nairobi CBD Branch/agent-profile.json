@@ -1,0 +1,28 @@
+{
+  "agentId": "AGT-KE-INS-001",
+  "agentCode": "JUB-NBI-001",
+  "agentName": "Nairobi CBD Branch",
+  "businessName": "Jubilee Insurance Kenya - Nairobi CBD Branch",
+  "agentType": 8,
+  "status": 0,
+  "phoneNumber": "+254766200001",
+  "email": "jubilee.cbd@example.co.ke",
+  "location": "Jubilee Insurance House, Wabera Street, Nairobi, Kenya",
+  "country": "Kenya",
+  "currency": "KES",
+  "dailyCashInLimit": 500000.0,
+  "dailyCashOutLimit": 300000.0,
+  "transactionLimit": 50000.0,
+  "bankName": "Equity Bank Kenya",
+  "settlementAccount": "0100200006",
+  "onboardedDate": "2023-10-01T00:00:00",
+  "commissionRate": 2.0,
+  "authorisedServices": [
+    "Cash In",
+    "Cash Out",
+    "Insurance Premium Payment",
+    "Insurance Policy Issuance",
+    "Bill Payment",
+    "Balance Inquiry"
+  ]
+}

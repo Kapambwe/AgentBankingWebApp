@@ -1,0 +1,36 @@
+{
+  "agentId": "AGT-ZM-MM-001",
+  "agentCode": "MTN-ZM-COP-001",
+  "agentName": "Mwape Mini-Mart",
+  "country": "Zambia",
+  "institutionType": "MobileMoneyOperator",
+  "institutionName": "MTN Zambia",
+  "currency": "ZMW",
+  "period": "2026-Q1",
+  "revenue": {
+    "cashInFees": 5400.00,
+    "cashOutFees": 3800.00,
+    "billPaymentFees": 1500.00,
+    "airtimeSales": 900.00,
+    "commissions": 12600.00,
+    "insurancePremiums": 0.00,
+    "total": 24200.00
+  },
+  "expenses": {
+    "floatManagementCosts": 1500.00,
+    "operationalCosts": 1100.00,
+    "staffCosts": 3500.00,
+    "rentalCosts": 1800.00,
+    "total": 7900.00
+  },
+  "profit": {
+    "grossProfit": 16300.00,
+    "netProfit": 16300.00,
+    "profitMarginPercent": 67.36
+  },
+  "monthlyBreakdown": [
+    { "month": "Jan", "revenue": 7500.00, "expenses": 2500.00, "profit": 5000.00 },
+    { "month": "Feb", "revenue": 8000.00, "expenses": 2600.00, "profit": 5400.00 },
+    { "month": "Mar", "revenue": 8700.00, "expenses": 2800.00, "profit": 5900.00 }
+  ]
+}

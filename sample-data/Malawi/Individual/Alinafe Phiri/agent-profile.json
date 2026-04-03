@@ -1,0 +1,26 @@
+{
+  "agentId": "AGT-MW-IN-001",
+  "agentCode": "IND-LIL-001",
+  "agentName": "Alinafe Phiri",
+  "businessName": "Alinafe Phiri",
+  "agentType": 0,
+  "status": 0,
+  "phoneNumber": "+265991900001",
+  "email": "alinafe.phiri@example.co.mw",
+  "location": "Area 25, Lilongwe, Malawi",
+  "country": "Malawi",
+  "currency": "MWK",
+  "dailyCashInLimit": 600000.0,
+  "dailyCashOutLimit": 380000.0,
+  "transactionLimit": 60000.0,
+  "bankName": "Malawi Savings Bank",
+  "settlementAccount": "1050300004",
+  "onboardedDate": "2024-09-01T00:00:00",
+  "commissionRate": 1.5,
+  "authorisedServices": [
+    "Cash In",
+    "Cash Out",
+    "Airtime Purchase",
+    "Balance Inquiry"
+  ]
+}

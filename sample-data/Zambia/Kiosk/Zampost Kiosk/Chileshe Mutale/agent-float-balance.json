@@ -1,0 +1,13 @@
+{
+  "agentId": "AGT-ZM-KI-001",
+  "agentCode": "KIOSK-LUS-001",
+  "currency": "ZMW",
+  "currentBalance": 28000.0,
+  "minimumBalance": 3000.0,
+  "maximumBalance": 150000.0,
+  "dailyCashInUsed": 18000.0,
+  "dailyCashOutUsed": 12000.0,
+  "dailyCashInLimit": 80000.0,
+  "dailyCashOutLimit": 50000.0,
+  "lastUpdated": "2026-03-05T10:00:00"
+}

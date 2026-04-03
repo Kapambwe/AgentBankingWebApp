@@ -1,0 +1,27 @@
+{
+  "agentId": "AGT-UG-GS-001",
+  "agentCode": "GAS-KLA-001",
+  "agentName": "Jinja Road Station",
+  "businessName": "Total Uganda - Jinja Road Station",
+  "agentType": 6,
+  "status": 0,
+  "phoneNumber": "+256742200001",
+  "email": "total.jinjaroad@example.co.ug",
+  "location": "Jinja Road, Kampala, Uganda",
+  "country": "Uganda",
+  "currency": "UGX",
+  "dailyCashInLimit": 22000000.0,
+  "dailyCashOutLimit": 15000000.0,
+  "transactionLimit": 2200000.0,
+  "bankName": "Stanbic Bank Uganda",
+  "settlementAccount": "9400200005",
+  "onboardedDate": "2024-01-25T00:00:00",
+  "commissionRate": 1.0,
+  "authorisedServices": [
+    "Cash In",
+    "Cash Out",
+    "Bill Payment",
+    "Airtime Purchase",
+    "Balance Inquiry"
+  ]
+}

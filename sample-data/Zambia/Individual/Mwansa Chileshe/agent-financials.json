@@ -1,0 +1,51 @@
+{
+  "agentId": "AGT-ZM-IN-001",
+  "agentCode": "IND-LUS-001",
+  "agentName": "Mwansa Chileshe",
+  "country": "Zambia",
+  "institutionType": "Individual",
+  "institutionName": "Mwansa Chileshe",
+  "currency": "ZMW",
+  "period": "2026-Q1",
+  "revenue": {
+    "cashInFees": 2500.0,
+    "cashOutFees": 1800.0,
+    "billPaymentFees": 0.0,
+    "airtimeSales": 400.0,
+    "commissions": 5500.0,
+    "insurancePremiums": 0.0,
+    "total": 10200.0
+  },
+  "expenses": {
+    "floatManagementCosts": 400.0,
+    "operationalCosts": 200.0,
+    "staffCosts": 0.0,
+    "rentalCosts": 0.0,
+    "total": 600.0
+  },
+  "profit": {
+    "grossProfit": 9600.0,
+    "netProfit": 9600.0,
+    "profitMarginPercent": 94.12
+  },
+  "monthlyBreakdown": [
+    {
+      "month": "Jan",
+      "revenue": 3000.0,
+      "expenses": 200.0,
+      "profit": 2800.0
+    },
+    {
+      "month": "Feb",
+      "revenue": 3300.0,
+      "expenses": 200.0,
+      "profit": 3100.0
+    },
+    {
+      "month": "Mar",
+      "revenue": 3900.0,
+      "expenses": 200.0,
+      "profit": 3700.0
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "agentId": "AGT-MW-INS-001",
+  "agentCode": "OM-BLN-001",
+  "agentName": "Blantyre City Centre",
+  "country": "Malawi",
+  "institutionType": "Insurance",
+  "institutionName": "Old Mutual Malawi",
+  "currency": "MWK",
+  "period": "2026-Q1",
+  "revenue": {
+    "cashInFees": 240000.0,
+    "cashOutFees": 150000.0,
+    "billPaymentFees": 60000.0,
+    "airtimeSales": 0.0,
+    "insurancePremiumCommissions": 1000000.0,
+    "commissions": 980000.0,
+    "insurancePremiums": 0.0,
+    "total": 2430000.0
+  },
+  "expenses": {
+    "floatManagementCosts": 56000.0,
+    "operationalCosts": 38000.0,
+    "staffCosts": 120000.0,
+    "rentalCosts": 65000.0,
+    "total": 279000.0
+  },
+  "profit": {
+    "grossProfit": 2151000.0,
+    "netProfit": 2151000.0,
+    "profitMarginPercent": 88.52
+  },
+  "monthlyBreakdown": [
+    {
+      "month": "Jan",
+      "revenue": 740000.0,
+      "expenses": 90000.0,
+      "profit": 650000.0
+    },
+    {
+      "month": "Feb",
+      "revenue": 790000.0,
+      "expenses": 93000.0,
+      "profit": 697000.0
+    },
+    {
+      "month": "Mar",
+      "revenue": 900000.0,
+      "expenses": 96000.0,
+      "profit": 804000.0
+    }
+  ]
+}

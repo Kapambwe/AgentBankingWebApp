@@ -1,0 +1,13 @@
+{
+  "agentId": "AGT-UG-CB-001",
+  "agentCode": "STB-UG-KLA-001",
+  "currency": "UGX",
+  "currentBalance": 7500000.00,
+  "minimumBalance": 800000.00,
+  "maximumBalance": 40000000.00,
+  "dailyCashInUsed": 4800000.00,
+  "dailyCashOutUsed": 3200000.00,
+  "dailyCashInLimit": 20000000.00,
+  "dailyCashOutLimit": 12000000.00,
+  "lastUpdated": "2026-03-05T10:10:00"
+}

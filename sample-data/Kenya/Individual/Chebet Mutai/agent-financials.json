@@ -1,0 +1,51 @@
+{
+  "agentId": "AGT-KE-IN-001",
+  "agentCode": "IND-ELD-001",
+  "agentName": "Chebet Mutai",
+  "country": "Kenya",
+  "institutionType": "Individual",
+  "institutionName": "Chebet Mutai",
+  "currency": "KES",
+  "period": "2026-Q1",
+  "revenue": {
+    "cashInFees": 9600.0,
+    "cashOutFees": 7000.0,
+    "billPaymentFees": 0.0,
+    "airtimeSales": 1600.0,
+    "commissions": 22000.0,
+    "insurancePremiums": 0.0,
+    "total": 40200.0
+  },
+  "expenses": {
+    "floatManagementCosts": 1500.0,
+    "operationalCosts": 750.0,
+    "staffCosts": 0.0,
+    "rentalCosts": 0.0,
+    "total": 2250.0
+  },
+  "profit": {
+    "grossProfit": 37950.0,
+    "netProfit": 37950.0,
+    "profitMarginPercent": 94.4
+  },
+  "monthlyBreakdown": [
+    {
+      "month": "Jan",
+      "revenue": 12000.0,
+      "expenses": 750.0,
+      "profit": 11250.0
+    },
+    {
+      "month": "Feb",
+      "revenue": 12800.0,
+      "expenses": 750.0,
+      "profit": 12050.0
+    },
+    {
+      "month": "Mar",
+      "revenue": 15400.0,
+      "expenses": 750.0,
+      "profit": 14650.0
+    }
+  ]
+}

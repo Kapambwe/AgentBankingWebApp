@@ -1,0 +1,80 @@
+[
+  {
+    "transactionId": "txn-agt-ke-gs-001-001",
+    "referenceNumber": "CI20260305001",
+    "transactionType": "Cash In",
+    "customerPhone": "+254755600001",
+    "customerName": "Robert Mwangi",
+    "amount": 40000.0,
+    "currency": "KES",
+    "fee": 200.0,
+    "commission": 400.0,
+    "status": "Completed",
+    "transactionDate": "2026-03-05T08:00:00"
+  },
+  {
+    "transactionId": "txn-agt-ke-gs-001-002",
+    "referenceNumber": "CO20260305002",
+    "transactionType": "Cash Out",
+    "customerPhone": "+254755600002",
+    "customerName": "Joyce Mutua",
+    "amount": 28000.0,
+    "currency": "KES",
+    "fee": 224.0,
+    "commission": 280.0,
+    "status": "Completed",
+    "transactionDate": "2026-03-05T08:35:00"
+  },
+  {
+    "transactionId": "txn-agt-ke-gs-001-003",
+    "referenceNumber": "BP20260305003",
+    "transactionType": "Bill Payment",
+    "customerPhone": "+254755600003",
+    "customerName": "Robert Mwangi",
+    "amount": 9500.0,
+    "currency": "KES",
+    "fee": 104.5,
+    "commission": 95.0,
+    "status": "Completed",
+    "transactionDate": "2026-03-05T09:10:00"
+  },
+  {
+    "transactionId": "txn-agt-ke-gs-001-004",
+    "referenceNumber": "CI20260305004",
+    "transactionType": "Cash In",
+    "customerPhone": "+254755600004",
+    "customerName": "Joyce Mutua",
+    "amount": 50000.0,
+    "currency": "KES",
+    "fee": 250.0,
+    "commission": 500.0,
+    "status": "Completed",
+    "transactionDate": "2026-03-05T10:00:00"
+  },
+  {
+    "transactionId": "txn-agt-ke-gs-001-005",
+    "referenceNumber": "CO20260304001",
+    "transactionType": "Cash Out",
+    "customerPhone": "+254755600005",
+    "customerName": "Robert Mwangi",
+    "amount": 35000.0,
+    "currency": "KES",
+    "fee": 280.0,
+    "commission": 350.0,
+    "status": "Completed",
+    "transactionDate": "2026-03-04T08:00:00"
+  },
+  {
+    "transactionId": "txn-agt-ke-gs-001-006",
+    "referenceNumber": "CI20260304002",
+    "transactionType": "Cash In",
+    "customerPhone": "+254755600006",
+    "customerName": "Joyce Mutua",
+    "amount": 62000.0,
+    "currency": "KES",
+    "fee": 310.0,
+    "commission": 620.0,
+    "status": "Completed",
+    "transactionDate": "2026-03-04T09:00:00"
+  }
+]

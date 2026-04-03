@@ -1,0 +1,62 @@
+[
+  {
+    "commissionId": "com-agt-ke-ki-001-001",
+    "agentId": "AGT-KE-KI-001",
+    "transactionReference": "CI20260305001",
+    "transactionType": "Cash In",
+    "transactionAmount": 9500.0,
+    "commissionAmount": 142.5,
+    "currency": "KES",
+    "earnedDate": "2026-03-05T08:05:00",
+    "isPaid": false,
+    "paidDate": null
+  },
+  {
+    "commissionId": "com-agt-ke-ki-001-002",
+    "agentId": "AGT-KE-KI-001",
+    "transactionReference": "CO20260305002",
+    "transactionType": "Cash Out",
+    "transactionAmount": 7000.0,
+    "commissionAmount": 105.0,
+    "currency": "KES",
+    "earnedDate": "2026-03-05T08:45:00",
+    "isPaid": false,
+    "paidDate": null
+  },
+  {
+    "commissionId": "com-agt-ke-ki-001-003",
+    "agentId": "AGT-KE-KI-001",
+    "transactionReference": "AT20260305003",
+    "transactionType": "Airtime",
+    "transactionAmount": 200.0,
+    "commissionAmount": 3.0,
+    "currency": "KES",
+    "earnedDate": "2026-03-05T09:15:00",
+    "isPaid": false,
+    "paidDate": null
+  },
+  {
+    "commissionId": "com-agt-ke-ki-001-004",
+    "agentId": "AGT-KE-KI-001",
+    "transactionReference": "CI20260305004",
+    "transactionType": "Cash In",
+    "transactionAmount": 12000.0,
+    "commissionAmount": 180.0,
+    "currency": "KES",
+    "earnedDate": "2026-03-05T10:00:00",
+    "isPaid": false,
+    "paidDate": null
+  },
+  {
+    "commissionId": "com-agt-ke-ki-001-005",
+    "agentId": "AGT-KE-KI-001",
+    "transactionReference": "CO20260304001",
+    "transactionType": "Cash Out",
+    "transactionAmount": 8500.0,
+    "commissionAmount": 127.5,
+    "currency": "KES",
+    "earnedDate": "2026-03-04T08:30:00",
+    "isPaid": true,
+    "paidDate": "2026-03-05T09:00:00"
+  }
+]

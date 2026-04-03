@@ -1,0 +1,28 @@
+{
+  "agentId": "AGT-UG-SM-001",
+  "agentCode": "CAR-KLA-001",
+  "agentName": "Lugogo Mall",
+  "businessName": "Carrefour Uganda - Lugogo Mall",
+  "agentType": 3,
+  "status": 0,
+  "phoneNumber": "+256702200001",
+  "email": "carrefour.lugogo@example.co.ug",
+  "location": "Lugogo Mall, Kampala, Uganda",
+  "country": "Uganda",
+  "currency": "UGX",
+  "dailyCashInLimit": 30000000.0,
+  "dailyCashOutLimit": 20000000.0,
+  "transactionLimit": 3000000.0,
+  "bankName": "Stanbic Bank Uganda",
+  "settlementAccount": "9000200001",
+  "onboardedDate": "2024-01-10T00:00:00",
+  "commissionRate": 1.0,
+  "authorisedServices": [
+    "Cash In",
+    "Cash Out",
+    "Bill Payment",
+    "Airtime Purchase",
+    "Balance Inquiry",
+    "Account Opening"
+  ]
+}

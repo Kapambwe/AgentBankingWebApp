@@ -1,0 +1,26 @@
+{
+  "agentId": "AGT-ZM-IN-001",
+  "agentCode": "IND-LUS-001",
+  "agentName": "Mwansa Chileshe",
+  "businessName": "Mwansa Chileshe",
+  "agentType": 0,
+  "status": 0,
+  "phoneNumber": "+260955333001",
+  "email": "mwansa.chileshe@example.co.zm",
+  "location": "Chilenje South, Lusaka, Zambia",
+  "country": "Zambia",
+  "currency": "ZMW",
+  "dailyCashInLimit": 30000.0,
+  "dailyCashOutLimit": 20000.0,
+  "transactionLimit": 3000.0,
+  "bankName": "Atlas Mara Zambia",
+  "settlementAccount": "6500200004",
+  "onboardedDate": "2024-08-01T00:00:00",
+  "commissionRate": 1.5,
+  "authorisedServices": [
+    "Cash In",
+    "Cash Out",
+    "Airtime Purchase",
+    "Balance Inquiry"
+  ]
+}

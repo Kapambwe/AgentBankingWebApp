@@ -1,0 +1,27 @@
+{
+  "agentId": "AGT-ZM-GS-001",
+  "agentCode": "GAS-LUS-001",
+  "agentName": "Kafue Road Station",
+  "businessName": "Total Energies Zambia - Kafue Road Station",
+  "agentType": 6,
+  "status": 0,
+  "phoneNumber": "+260966444001",
+  "email": "total.kafue@example.co.zm",
+  "location": "Kafue Road, Lusaka, Zambia",
+  "country": "Zambia",
+  "currency": "ZMW",
+  "dailyCashInLimit": 150000.0,
+  "dailyCashOutLimit": 100000.0,
+  "transactionLimit": 15000.0,
+  "bankName": "Stanbic Bank Zambia",
+  "settlementAccount": "6600200005",
+  "onboardedDate": "2024-02-28T00:00:00",
+  "commissionRate": 1.0,
+  "authorisedServices": [
+    "Cash In",
+    "Cash Out",
+    "Bill Payment",
+    "Airtime Purchase",
+    "Balance Inquiry"
+  ]
+}

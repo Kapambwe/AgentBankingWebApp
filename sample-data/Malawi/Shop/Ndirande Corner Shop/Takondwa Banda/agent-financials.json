@@ -1,0 +1,51 @@
+{
+  "agentId": "AGT-MW-SH-001",
+  "agentCode": "SHOP-BLN-001",
+  "agentName": "Takondwa Banda",
+  "country": "Malawi",
+  "institutionType": "Shop",
+  "institutionName": "Ndirande Corner Shop",
+  "currency": "MWK",
+  "period": "2026-Q1",
+  "revenue": {
+    "cashInFees": 130000.0,
+    "cashOutFees": 95000.0,
+    "billPaymentFees": 42000.0,
+    "airtimeSales": 18000.0,
+    "commissions": 305000.0,
+    "insurancePremiums": 0.0,
+    "total": 590000.0
+  },
+  "expenses": {
+    "floatManagementCosts": 20000.0,
+    "operationalCosts": 14000.0,
+    "staffCosts": 40000.0,
+    "rentalCosts": 16000.0,
+    "total": 90000.0
+  },
+  "profit": {
+    "grossProfit": 500000.0,
+    "netProfit": 500000.0,
+    "profitMarginPercent": 84.75
+  },
+  "monthlyBreakdown": [
+    {
+      "month": "Jan",
+      "revenue": 182000.0,
+      "expenses": 30000.0,
+      "profit": 152000.0
+    },
+    {
+      "month": "Feb",
+      "revenue": 194000.0,
+      "expenses": 30000.0,
+      "profit": 164000.0
+    },
+    {
+      "month": "Mar",
+      "revenue": 214000.0,
+      "expenses": 30000.0,
+      "profit": 184000.0
+    }
+  ]
+}

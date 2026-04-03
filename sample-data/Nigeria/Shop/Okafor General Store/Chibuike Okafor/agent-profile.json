@@ -1,0 +1,27 @@
+{
+  "agentId": "AGT-NG-SH-001",
+  "agentCode": "SHOP-ABJ-001",
+  "agentName": "Chibuike Okafor",
+  "businessName": "Okafor General Store - Chibuike Okafor",
+  "agentType": 1,
+  "status": 0,
+  "phoneNumber": "+2348050003001",
+  "email": "chibuike.okafor@example.ng",
+  "location": "Wuse Market, Abuja, Nigeria",
+  "country": "Nigeria",
+  "currency": "NGN",
+  "dailyCashInLimit": 2500000.0,
+  "dailyCashOutLimit": 1600000.0,
+  "transactionLimit": 250000.0,
+  "bankName": "United Bank for Africa",
+  "settlementAccount": "3040300003",
+  "onboardedDate": "2024-04-10T00:00:00",
+  "commissionRate": 1.5,
+  "authorisedServices": [
+    "Cash In",
+    "Cash Out",
+    "Bill Payment",
+    "Airtime Purchase",
+    "Balance Inquiry"
+  ]
+}

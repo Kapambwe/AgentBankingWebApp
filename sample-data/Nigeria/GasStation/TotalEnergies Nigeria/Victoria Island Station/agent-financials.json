@@ -1,0 +1,51 @@
+{
+  "agentId": "AGT-NG-GS-001",
+  "agentCode": "GAS-LAG-001",
+  "agentName": "Victoria Island Station",
+  "country": "Nigeria",
+  "institutionType": "GasStation",
+  "institutionName": "TotalEnergies Nigeria",
+  "currency": "NGN",
+  "period": "2026-Q1",
+  "revenue": {
+    "cashInFees": 730000.0,
+    "cashOutFees": 540000.0,
+    "billPaymentFees": 230000.0,
+    "airtimeSales": 80000.0,
+    "commissions": 1680000.0,
+    "insurancePremiums": 0.0,
+    "total": 3260000.0
+  },
+  "expenses": {
+    "floatManagementCosts": 110000.0,
+    "operationalCosts": 70000.0,
+    "staffCosts": 0.0,
+    "rentalCosts": 0.0,
+    "total": 180000.0
+  },
+  "profit": {
+    "grossProfit": 3080000.0,
+    "netProfit": 3080000.0,
+    "profitMarginPercent": 94.48
+  },
+  "monthlyBreakdown": [
+    {
+      "month": "Jan",
+      "revenue": 960000.0,
+      "expenses": 60000.0,
+      "profit": 900000.0
+    },
+    {
+      "month": "Feb",
+      "revenue": 1020000.0,
+      "expenses": 60000.0,
+      "profit": 960000.0
+    },
+    {
+      "month": "Mar",
+      "revenue": 1280000.0,
+      "expenses": 60000.0,
+      "profit": 1220000.0
+    }
+  ]
+}

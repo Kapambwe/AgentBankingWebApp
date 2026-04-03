@@ -1,0 +1,13 @@
+{
+  "agentId": "AGT-UG-MM-001",
+  "agentCode": "MTN-UG-ENT-001",
+  "currency": "UGX",
+  "currentBalance": 3800000.00,
+  "minimumBalance": 400000.00,
+  "maximumBalance": 24000000.00,
+  "dailyCashInUsed": 2700000.00,
+  "dailyCashOutUsed": 1900000.00,
+  "dailyCashInLimit": 12000000.00,
+  "dailyCashOutLimit": 8000000.00,
+  "lastUpdated": "2026-03-05T09:40:00"
+}

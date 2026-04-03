@@ -1,0 +1,13 @@
+{
+  "agentId": "AGT-UG-IN-001",
+  "agentCode": "IND-KLA-001",
+  "currency": "UGX",
+  "currentBalance": 1600000.0,
+  "minimumBalance": 180000.0,
+  "maximumBalance": 10000000.0,
+  "dailyCashInUsed": 1000000.0,
+  "dailyCashOutUsed": 660000.0,
+  "dailyCashInLimit": 4500000.0,
+  "dailyCashOutLimit": 3000000.0,
+  "lastUpdated": "2026-03-05T10:00:00"
+}

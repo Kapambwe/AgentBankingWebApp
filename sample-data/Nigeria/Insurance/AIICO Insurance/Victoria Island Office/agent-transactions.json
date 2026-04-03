@@ -1,0 +1,93 @@
+[
+  {
+    "transactionId": "txn-agt-ng-ins-001-001",
+    "referenceNumber": "IP20260305001",
+    "transactionType": "Insurance Premium",
+    "customerPhone": "+2348666000001",
+    "customerName": "Olumide Adeyemi",
+    "amount": 175000.0,
+    "currency": "NGN",
+    "fee": 1750.0,
+    "commission": 3500.0,
+    "status": "Completed",
+    "transactionDate": "2026-03-05T08:00:00"
+  },
+  {
+    "transactionId": "txn-agt-ng-ins-001-002",
+    "referenceNumber": "CI20260305002",
+    "transactionType": "Cash In",
+    "customerPhone": "+2348666000002",
+    "customerName": "Ngozi Okonkwo",
+    "amount": 380000.0,
+    "currency": "NGN",
+    "fee": 1900.0,
+    "commission": 7600.0,
+    "status": "Completed",
+    "transactionDate": "2026-03-05T08:30:00"
+  },
+  {
+    "transactionId": "txn-agt-ng-ins-001-003",
+    "referenceNumber": "IP20260305003",
+    "transactionType": "Insurance Premium",
+    "customerPhone": "+2348666000003",
+    "customerName": "Emeka Eze",
+    "amount": 240000.0,
+    "currency": "NGN",
+    "fee": 2400.0,
+    "commission": 4800.0,
+    "status": "Completed",
+    "transactionDate": "2026-03-05T09:00:00"
+  },
+  {
+    "transactionId": "txn-agt-ng-ins-001-004",
+    "referenceNumber": "CO20260305004",
+    "transactionType": "Cash Out",
+    "customerPhone": "+2348666000004",
+    "customerName": "Amaka Obiora",
+    "amount": 300000.0,
+    "currency": "NGN",
+    "fee": 2400.0,
+    "commission": 6000.0,
+    "status": "Completed",
+    "transactionDate": "2026-03-05T09:30:00"
+  },
+  {
+    "transactionId": "txn-agt-ng-ins-001-005",
+    "referenceNumber": "IP20260305005",
+    "transactionType": "Insurance Premium",
+    "customerPhone": "+2348666000005",
+    "customerName": "Ngozi Okonkwo",
+    "amount": 130000.0,
+    "currency": "NGN",
+    "fee": 1300.0,
+    "commission": 2600.0,
+    "status": "Completed",
+    "transactionDate": "2026-03-05T10:00:00"
+  },
+  {
+    "transactionId": "txn-agt-ng-ins-001-006",
+    "referenceNumber": "IP20260304001",
+    "transactionType": "Insurance Premium",
+    "customerPhone": "+2348666000006",
+    "customerName": "Emeka Eze",
+    "amount": 195000.0,
+    "currency": "NGN",
+    "fee": 1950.0,
+    "commission": 3900.0,
+    "status": "Completed",
+    "transactionDate": "2026-03-04T08:00:00"
+  },
+  {
+    "transactionId": "txn-agt-ng-ins-001-007",
+    "referenceNumber": "CI20260304002",
+    "transactionType": "Cash In",
+    "customerPhone": "+2348666000007",
+    "customerName": "Olumide Adeyemi",
+    "amount": 450000.0,
+    "currency": "NGN",
+    "fee": 2250.0,
+    "commission": 9000.0,
+    "status": "Completed",
+    "transactionDate": "2026-03-04T09:00:00"
+  }
+]

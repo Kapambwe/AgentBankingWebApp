@@ -1,0 +1,51 @@
+{
+  "agentId": "AGT-ZM-SH-001",
+  "agentCode": "SHOP-LUS-001",
+  "agentName": "Chisomo Kayumba",
+  "country": "Zambia",
+  "institutionType": "Shop",
+  "institutionName": "Chisomo General Dealers",
+  "currency": "ZMW",
+  "period": "2026-Q1",
+  "revenue": {
+    "cashInFees": 7000.0,
+    "cashOutFees": 5000.0,
+    "billPaymentFees": 2200.0,
+    "airtimeSales": 950.0,
+    "commissions": 16000.0,
+    "insurancePremiums": 0.0,
+    "total": 31150.0
+  },
+  "expenses": {
+    "floatManagementCosts": 1000.0,
+    "operationalCosts": 700.0,
+    "staffCosts": 2000.0,
+    "rentalCosts": 900.0,
+    "total": 4600.0
+  },
+  "profit": {
+    "grossProfit": 26550.0,
+    "netProfit": 26550.0,
+    "profitMarginPercent": 85.23
+  },
+  "monthlyBreakdown": [
+    {
+      "month": "Jan",
+      "revenue": 9500.0,
+      "expenses": 1500.0,
+      "profit": 8000.0
+    },
+    {
+      "month": "Feb",
+      "revenue": 10200.0,
+      "expenses": 1550.0,
+      "profit": 8650.0
+    },
+    {
+      "month": "Mar",
+      "revenue": 11450.0,
+      "expenses": 1550.0,
+      "profit": 9900.0
+    }
+  ]
+}

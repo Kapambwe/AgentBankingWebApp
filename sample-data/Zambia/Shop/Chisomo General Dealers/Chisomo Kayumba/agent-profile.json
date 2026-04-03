@@ -1,0 +1,27 @@
+{
+  "agentId": "AGT-ZM-SH-001",
+  "agentCode": "SHOP-LUS-001",
+  "agentName": "Chisomo Kayumba",
+  "businessName": "Chisomo General Dealers - Chisomo Kayumba",
+  "agentType": 1,
+  "status": 0,
+  "phoneNumber": "+260966222001",
+  "email": "chisomo.kayumba@example.co.zm",
+  "location": "Matero Township, Lusaka, Zambia",
+  "country": "Zambia",
+  "currency": "ZMW",
+  "dailyCashInLimit": 60000.0,
+  "dailyCashOutLimit": 40000.0,
+  "transactionLimit": 6000.0,
+  "bankName": "Zanaco Bank",
+  "settlementAccount": "6400200003",
+  "onboardedDate": "2024-05-20T00:00:00",
+  "commissionRate": 1.5,
+  "authorisedServices": [
+    "Cash In",
+    "Cash Out",
+    "Bill Payment",
+    "Airtime Purchase",
+    "Balance Inquiry"
+  ]
+}

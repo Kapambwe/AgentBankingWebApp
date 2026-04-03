@@ -1,0 +1,51 @@
+{
+  "agentId": "AGT-NG-SH-001",
+  "agentCode": "SHOP-ABJ-001",
+  "agentName": "Chibuike Okafor",
+  "country": "Nigeria",
+  "institutionType": "Shop",
+  "institutionName": "Okafor General Store",
+  "currency": "NGN",
+  "period": "2026-Q1",
+  "revenue": {
+    "cashInFees": 260000.0,
+    "cashOutFees": 192000.0,
+    "billPaymentFees": 84000.0,
+    "airtimeSales": 36000.0,
+    "commissions": 612000.0,
+    "insurancePremiums": 0.0,
+    "total": 1184000.0
+  },
+  "expenses": {
+    "floatManagementCosts": 40000.0,
+    "operationalCosts": 28000.0,
+    "staffCosts": 80000.0,
+    "rentalCosts": 32000.0,
+    "total": 180000.0
+  },
+  "profit": {
+    "grossProfit": 1004000.0,
+    "netProfit": 1004000.0,
+    "profitMarginPercent": 84.8
+  },
+  "monthlyBreakdown": [
+    {
+      "month": "Jan",
+      "revenue": 362000.0,
+      "expenses": 60000.0,
+      "profit": 302000.0
+    },
+    {
+      "month": "Feb",
+      "revenue": 386000.0,
+      "expenses": 60000.0,
+      "profit": 326000.0
+    },
+    {
+      "month": "Mar",
+      "revenue": 436000.0,
+      "expenses": 60000.0,
+      "profit": 376000.0
+    }
+  ]
+}

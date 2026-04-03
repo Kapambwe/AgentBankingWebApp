@@ -1,0 +1,28 @@
+{
+  "agentId": "AGT-ZM-MM-001",
+  "agentCode": "MTN-ZM-COP-001",
+  "agentName": "Banda Mwape",
+  "businessName": "Mwape Mini-Mart",
+  "agentType": 4,
+  "status": 0,
+  "phoneNumber": "+260977654321",
+  "email": "banda.mwape@example.co.zm",
+  "location": "Copperbelt, Zambia",
+  "country": "Zambia",
+  "currency": "ZMW",
+  "dailyCashInLimit": 60000.00,
+  "dailyCashOutLimit": 40000.00,
+  "transactionLimit": 5000.00,
+  "bankName": "MTN Zambia Mobile Money",
+  "settlementAccount": "7700987654",
+  "onboardedDate": "2024-09-15T00:00:00",
+  "commissionRate": 1.5,
+  "authorisedServices": [
+    "Cash In",
+    "Cash Out",
+    "Bill Payment",
+    "Airtime Purchase",
+    "Balance Inquiry",
+    "Mini Statement"
+  ]
+}

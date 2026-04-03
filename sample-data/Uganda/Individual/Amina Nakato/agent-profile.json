@@ -1,0 +1,26 @@
+{
+  "agentId": "AGT-UG-IN-001",
+  "agentCode": "IND-KLA-001",
+  "agentName": "Amina Nakato",
+  "businessName": "Amina Nakato",
+  "agentType": 0,
+  "status": 0,
+  "phoneNumber": "+256732200001",
+  "email": "amina.nakato@example.co.ug",
+  "location": "Nateete, Kampala, Uganda",
+  "country": "Uganda",
+  "currency": "UGX",
+  "dailyCashInLimit": 4500000.0,
+  "dailyCashOutLimit": 3000000.0,
+  "transactionLimit": 450000.0,
+  "bankName": "Centenary Bank Uganda",
+  "settlementAccount": "9300200004",
+  "onboardedDate": "2024-07-20T00:00:00",
+  "commissionRate": 1.5,
+  "authorisedServices": [
+    "Cash In",
+    "Cash Out",
+    "Airtime Purchase",
+    "Balance Inquiry"
+  ]
+}

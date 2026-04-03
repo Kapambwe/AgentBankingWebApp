@@ -1,0 +1,36 @@
+{
+  "agentId": "AGT-MW-CB-001",
+  "agentCode": "NBS-MW-LIL-001",
+  "agentName": "Banda Trading Centre",
+  "country": "Malawi",
+  "institutionType": "CommercialBank",
+  "institutionName": "NBS Bank Malawi",
+  "currency": "MWK",
+  "period": "2026-Q1",
+  "revenue": {
+    "cashInFees": 145000.00,
+    "cashOutFees": 105000.00,
+    "billPaymentFees": 48000.00,
+    "airtimeSales": 22000.00,
+    "commissions": 320000.00,
+    "insurancePremiums": 0.00,
+    "total": 640000.00
+  },
+  "expenses": {
+    "floatManagementCosts": 45000.00,
+    "operationalCosts": 32000.00,
+    "staffCosts": 110000.00,
+    "rentalCosts": 55000.00,
+    "total": 242000.00
+  },
+  "profit": {
+    "grossProfit": 398000.00,
+    "netProfit": 398000.00,
+    "profitMarginPercent": 62.19
+  },
+  "monthlyBreakdown": [
+    { "month": "Jan", "revenue": 198000.00, "expenses": 78000.00, "profit": 120000.00 },
+    { "month": "Feb", "revenue": 212000.00, "expenses": 80000.00, "profit": 132000.00 },
+    { "month": "Mar", "revenue": 230000.00, "expenses": 84000.00, "profit": 146000.00 }
+  ]
+}

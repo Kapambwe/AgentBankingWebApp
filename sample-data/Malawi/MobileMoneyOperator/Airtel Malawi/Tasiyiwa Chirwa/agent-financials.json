@@ -1,0 +1,36 @@
+{
+  "agentId": "AGT-MW-MM-001",
+  "agentCode": "AIRTEL-MW-BLN-001",
+  "agentName": "Chirwa Mobile Money Shop",
+  "country": "Malawi",
+  "institutionType": "MobileMoneyOperator",
+  "institutionName": "Airtel Malawi",
+  "currency": "MWK",
+  "period": "2026-Q1",
+  "revenue": {
+    "cashInFees": 98000.00,
+    "cashOutFees": 72000.00,
+    "billPaymentFees": 31000.00,
+    "airtimeSales": 18000.00,
+    "commissions": 221000.00,
+    "insurancePremiums": 0.00,
+    "total": 440000.00
+  },
+  "expenses": {
+    "floatManagementCosts": 30000.00,
+    "operationalCosts": 22000.00,
+    "staffCosts": 75000.00,
+    "rentalCosts": 38000.00,
+    "total": 165000.00
+  },
+  "profit": {
+    "grossProfit": 275000.00,
+    "netProfit": 275000.00,
+    "profitMarginPercent": 62.50
+  },
+  "monthlyBreakdown": [
+    { "month": "Jan", "revenue": 135000.00, "expenses": 53000.00, "profit": 82000.00 },
+    { "month": "Feb", "revenue": 145000.00, "expenses": 55000.00, "profit": 90000.00 },
+    { "month": "Mar", "revenue": 160000.00, "expenses": 57000.00, "profit": 103000.00 }
+  ]
+}

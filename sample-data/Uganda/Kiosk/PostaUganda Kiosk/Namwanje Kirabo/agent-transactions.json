@@ -1,0 +1,67 @@
+[
+  {
+    "transactionId": "txn-agt-ug-ki-001-001",
+    "referenceNumber": "CI20260305001",
+    "transactionType": "Cash In",
+    "customerPhone": "+256712400001",
+    "customerName": "Olivia Nabirye",
+    "amount": 360000.0,
+    "currency": "UGX",
+    "fee": 1800.0,
+    "commission": 5400.0,
+    "status": "Completed",
+    "transactionDate": "2026-03-05T08:05:00"
+  },
+  {
+    "transactionId": "txn-agt-ug-ki-001-002",
+    "referenceNumber": "CO20260305002",
+    "transactionType": "Cash Out",
+    "customerPhone": "+256712400002",
+    "customerName": "Herbert Mugisha",
+    "amount": 260000.0,
+    "currency": "UGX",
+    "fee": 2080.0,
+    "commission": 3900.0,
+    "status": "Completed",
+    "transactionDate": "2026-03-05T08:45:00"
+  },
+  {
+    "transactionId": "txn-agt-ug-ki-001-003",
+    "referenceNumber": "AT20260305003",
+    "transactionType": "Airtime",
+    "customerPhone": "+256712400003",
+    "customerName": "Olivia Nabirye",
+    "amount": 15000.0,
+    "currency": "UGX",
+    "fee": 0.0,
+    "commission": 225.0,
+    "status": "Completed",
+    "transactionDate": "2026-03-05T09:15:00"
+  },
+  {
+    "transactionId": "txn-agt-ug-ki-001-004",
+    "referenceNumber": "CI20260305004",
+    "transactionType": "Cash In",
+    "customerPhone": "+256712400004",
+    "customerName": "Herbert Mugisha",
+    "amount": 450000.0,
+    "currency": "UGX",
+    "fee": 2250.0,
+    "commission": 6750.0,
+    "status": "Completed",
+    "transactionDate": "2026-03-05T10:00:00"
+  },
+  {
+    "transactionId": "txn-agt-ug-ki-001-005",
+    "referenceNumber": "CO20260304001",
+    "transactionType": "Cash Out",
+    "customerPhone": "+256712400005",
+    "customerName": "Olivia Nabirye",
+    "amount": 320000.0,
+    "currency": "UGX",
+    "fee": 2560.0,
+    "commission": 4800.0,
+    "status": "Completed",
+    "transactionDate": "2026-03-04T08:30:00"
+  }
+]

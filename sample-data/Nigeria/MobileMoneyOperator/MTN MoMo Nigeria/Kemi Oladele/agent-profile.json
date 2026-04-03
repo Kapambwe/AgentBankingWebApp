@@ -1,0 +1,28 @@
+{
+  "agentId": "AGT-NG-MM-001",
+  "agentCode": "MTN-NG-ABJ-001",
+  "agentName": "Kemi Oladele",
+  "businessName": "Oladele MoMo Point",
+  "agentType": 4,
+  "status": 0,
+  "phoneNumber": "+2348023456789",
+  "email": "kemi.oladele@example.ng",
+  "location": "Abuja, Nigeria",
+  "country": "Nigeria",
+  "currency": "NGN",
+  "dailyCashInLimit": 3000000.00,
+  "dailyCashOutLimit": 2000000.00,
+  "transactionLimit": 300000.00,
+  "bankName": "MTN MoMo Nigeria",
+  "settlementAccount": "4023456789",
+  "onboardedDate": "2024-05-20T00:00:00",
+  "commissionRate": 1.5,
+  "authorisedServices": [
+    "Cash In",
+    "Cash Out",
+    "Bill Payment",
+    "Airtime Purchase",
+    "Balance Inquiry",
+    "Mini Statement"
+  ]
+}

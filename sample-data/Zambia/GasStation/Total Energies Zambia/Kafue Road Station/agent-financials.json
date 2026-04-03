@@ -1,0 +1,51 @@
+{
+  "agentId": "AGT-ZM-GS-001",
+  "agentCode": "GAS-LUS-001",
+  "agentName": "Kafue Road Station",
+  "country": "Zambia",
+  "institutionType": "GasStation",
+  "institutionName": "Total Energies Zambia",
+  "currency": "ZMW",
+  "period": "2026-Q1",
+  "revenue": {
+    "cashInFees": 18000.0,
+    "cashOutFees": 13000.0,
+    "billPaymentFees": 5500.0,
+    "airtimeSales": 2000.0,
+    "commissions": 40000.0,
+    "insurancePremiums": 0.0,
+    "total": 78500.0
+  },
+  "expenses": {
+    "floatManagementCosts": 2800.0,
+    "operationalCosts": 1800.0,
+    "staffCosts": 0.0,
+    "rentalCosts": 0.0,
+    "total": 4600.0
+  },
+  "profit": {
+    "grossProfit": 73900.0,
+    "netProfit": 73900.0,
+    "profitMarginPercent": 94.14
+  },
+  "monthlyBreakdown": [
+    {
+      "month": "Jan",
+      "revenue": 24000.0,
+      "expenses": 1500.0,
+      "profit": 22500.0
+    },
+    {
+      "month": "Feb",
+      "revenue": 25500.0,
+      "expenses": 1500.0,
+      "profit": 24000.0
+    },
+    {
+      "month": "Mar",
+      "revenue": 29000.0,
+      "expenses": 1600.0,
+      "profit": 27400.0
+    }
+  ]
+}

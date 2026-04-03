@@ -1,0 +1,13 @@
+{
+  "agentId": "AGT-NG-INS-001",
+  "agentCode": "AIICO-LAG-001",
+  "currency": "NGN",
+  "currentBalance": 2100000.0,
+  "minimumBalance": 250000.0,
+  "maximumBalance": 12000000.0,
+  "dailyCashInUsed": 1350000.0,
+  "dailyCashOutUsed": 900000.0,
+  "dailyCashInLimit": 5000000.0,
+  "dailyCashOutLimit": 3000000.0,
+  "lastUpdated": "2026-03-05T10:00:00"
+}

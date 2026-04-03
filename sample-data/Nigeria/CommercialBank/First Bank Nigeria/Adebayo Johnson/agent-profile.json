@@ -1,0 +1,31 @@
+{
+  "agentId": "AGT-NG-CB-001",
+  "agentCode": "FBN-NG-LAG-001",
+  "agentName": "Adebayo Johnson",
+  "businessName": "Johnson Financial Services",
+  "agentType": 1,
+  "status": 0,
+  "phoneNumber": "+2348012345678",
+  "email": "adebayo.johnson@example.ng",
+  "location": "Lagos, Nigeria",
+  "country": "Nigeria",
+  "currency": "NGN",
+  "dailyCashInLimit": 5000000.00,
+  "dailyCashOutLimit": 3000000.00,
+  "transactionLimit": 500000.00,
+  "bankName": "First Bank of Nigeria",
+  "settlementAccount": "3012345678",
+  "onboardedDate": "2024-01-15T00:00:00",
+  "commissionRate": 1.5,
+  "authorisedServices": [
+    "Cash In",
+    "Cash Out",
+    "Bill Payment",
+    "Airtime Purchase",
+    "Balance Inquiry",
+    "Mini Statement",
+    "Account Opening",
+    "Loan Repayment",
+    "Government Payments"
+  ]
+}

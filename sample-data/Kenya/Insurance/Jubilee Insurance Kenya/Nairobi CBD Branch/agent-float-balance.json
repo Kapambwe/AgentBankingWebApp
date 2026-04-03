@@ -1,0 +1,13 @@
+{
+  "agentId": "AGT-KE-INS-001",
+  "agentCode": "JUB-NBI-001",
+  "currency": "KES",
+  "currentBalance": 210000.0,
+  "minimumBalance": 25000.0,
+  "maximumBalance": 1200000.0,
+  "dailyCashInUsed": 135000.0,
+  "dailyCashOutUsed": 90000.0,
+  "dailyCashInLimit": 500000.0,
+  "dailyCashOutLimit": 300000.0,
+  "lastUpdated": "2026-03-05T10:00:00"
+}

@@ -1,0 +1,74 @@
+[
+  {
+    "commissionId": "com-agt-mw-gs-001-001",
+    "agentId": "AGT-MW-GS-001",
+    "transactionReference": "CI20260305001",
+    "transactionType": "Cash In",
+    "transactionAmount": 200000.0,
+    "commissionAmount": 2000.0,
+    "currency": "MWK",
+    "earnedDate": "2026-03-05T08:00:00",
+    "isPaid": false,
+    "paidDate": null
+  },
+  {
+    "commissionId": "com-agt-mw-gs-001-002",
+    "agentId": "AGT-MW-GS-001",
+    "transactionReference": "CO20260305002",
+    "transactionType": "Cash Out",
+    "transactionAmount": 150000.0,
+    "commissionAmount": 1500.0,
+    "currency": "MWK",
+    "earnedDate": "2026-03-05T08:35:00",
+    "isPaid": false,
+    "paidDate": null
+  },
+  {
+    "commissionId": "com-agt-mw-gs-001-003",
+    "agentId": "AGT-MW-GS-001",
+    "transactionReference": "BP20260305003",
+    "transactionType": "Bill Payment",
+    "transactionAmount": 48000.0,
+    "commissionAmount": 480.0,
+    "currency": "MWK",
+    "earnedDate": "2026-03-05T09:10:00",
+    "isPaid": false,
+    "paidDate": null
+  },
+  {
+    "commissionId": "com-agt-mw-gs-001-004",
+    "agentId": "AGT-MW-GS-001",
+    "transactionReference": "CI20260305004",
+    "transactionType": "Cash In",
+    "transactionAmount": 250000.0,
+    "commissionAmount": 2500.0,
+    "currency": "MWK",
+    "earnedDate": "2026-03-05T10:00:00",
+    "isPaid": false,
+    "paidDate": null
+  },
+  {
+    "commissionId": "com-agt-mw-gs-001-005",
+    "agentId": "AGT-MW-GS-001",
+    "transactionReference": "CO20260304001",
+    "transactionType": "Cash Out",
+    "transactionAmount": 180000.0,
+    "commissionAmount": 1800.0,
+    "currency": "MWK",
+    "earnedDate": "2026-03-04T08:00:00",
+    "isPaid": true,
+    "paidDate": "2026-03-05T09:00:00"
+  },
+  {
+    "commissionId": "com-agt-mw-gs-001-006",
+    "agentId": "AGT-MW-GS-001",
+    "transactionReference": "CI20260304002",
+    "transactionType": "Cash In",
+    "transactionAmount": 280000.0,
+    "commissionAmount": 2800.0,
+    "currency": "MWK",
+    "earnedDate": "2026-03-04T09:00:00",
+    "isPaid": true,
+    "paidDate": "2026-03-05T09:00:00"
+  }
+]

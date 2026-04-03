@@ -1,0 +1,80 @@
+[
+  {
+    "transactionId": "txn-agt-zm-sh-001-001",
+    "referenceNumber": "CI20260305001",
+    "transactionType": "Cash In",
+    "customerPhone": "+260966400001",
+    "customerName": "Ruth Nkosi",
+    "amount": 2000.0,
+    "currency": "ZMW",
+    "fee": 10.0,
+    "commission": 30.0,
+    "status": "Completed",
+    "transactionDate": "2026-03-05T08:00:00"
+  },
+  {
+    "transactionId": "txn-agt-zm-sh-001-002",
+    "referenceNumber": "CO20260305002",
+    "transactionType": "Cash Out",
+    "customerPhone": "+260966400002",
+    "customerName": "Samuel Phiri",
+    "amount": 1500.0,
+    "currency": "ZMW",
+    "fee": 12.0,
+    "commission": 22.5,
+    "status": "Completed",
+    "transactionDate": "2026-03-05T08:45:00"
+  },
+  {
+    "transactionId": "txn-agt-zm-sh-001-003",
+    "referenceNumber": "BP20260305003",
+    "transactionType": "Bill Payment",
+    "customerPhone": "+260966400003",
+    "customerName": "Ruth Nkosi",
+    "amount": 600.0,
+    "currency": "ZMW",
+    "fee": 8.0,
+    "commission": 9.0,
+    "status": "Completed",
+    "transactionDate": "2026-03-05T09:20:00"
+  },
+  {
+    "transactionId": "txn-agt-zm-sh-001-004",
+    "referenceNumber": "AT20260305004",
+    "transactionType": "Airtime",
+    "customerPhone": "+260966400004",
+    "customerName": "Samuel Phiri",
+    "amount": 100.0,
+    "currency": "ZMW",
+    "fee": 0.0,
+    "commission": 1.5,
+    "status": "Completed",
+    "transactionDate": "2026-03-05T10:00:00"
+  },
+  {
+    "transactionId": "txn-agt-zm-sh-001-005",
+    "referenceNumber": "CI20260305005",
+    "transactionType": "Cash In",
+    "customerPhone": "+260966400005",
+    "customerName": "Mercy Banda",
+    "amount": 3500.0,
+    "currency": "ZMW",
+    "fee": 17.5,
+    "commission": 52.5,
+    "status": "Completed",
+    "transactionDate": "2026-03-05T10:30:00"
+  },
+  {
+    "transactionId": "txn-agt-zm-sh-001-006",
+    "referenceNumber": "CO20260304001",
+    "transactionType": "Cash Out",
+    "customerPhone": "+260966400006",
+    "customerName": "Ruth Nkosi",
+    "amount": 2500.0,
+    "currency": "ZMW",
+    "fee": 20.0,
+    "commission": 37.5,
+    "status": "Completed",
+    "transactionDate": "2026-03-04T08:00:00"
+  }
+]

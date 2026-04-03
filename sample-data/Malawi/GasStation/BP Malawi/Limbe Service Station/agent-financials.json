@@ -1,0 +1,51 @@
+{
+  "agentId": "AGT-MW-GS-001",
+  "agentCode": "GAS-BLN-001",
+  "agentName": "Limbe Service Station",
+  "country": "Malawi",
+  "institutionType": "GasStation",
+  "institutionName": "BP Malawi",
+  "currency": "MWK",
+  "period": "2026-Q1",
+  "revenue": {
+    "cashInFees": 360000.0,
+    "cashOutFees": 260000.0,
+    "billPaymentFees": 110000.0,
+    "airtimeSales": 40000.0,
+    "commissions": 820000.0,
+    "insurancePremiums": 0.0,
+    "total": 1590000.0
+  },
+  "expenses": {
+    "floatManagementCosts": 55000.0,
+    "operationalCosts": 35000.0,
+    "staffCosts": 0.0,
+    "rentalCosts": 0.0,
+    "total": 90000.0
+  },
+  "profit": {
+    "grossProfit": 1500000.0,
+    "netProfit": 1500000.0,
+    "profitMarginPercent": 94.34
+  },
+  "monthlyBreakdown": [
+    {
+      "month": "Jan",
+      "revenue": 480000.0,
+      "expenses": 30000.0,
+      "profit": 450000.0
+    },
+    {
+      "month": "Feb",
+      "revenue": 510000.0,
+      "expenses": 30000.0,
+      "profit": 480000.0
+    },
+    {
+      "month": "Mar",
+      "revenue": 600000.0,
+      "expenses": 30000.0,
+      "profit": 570000.0
+    }
+  ]
+}

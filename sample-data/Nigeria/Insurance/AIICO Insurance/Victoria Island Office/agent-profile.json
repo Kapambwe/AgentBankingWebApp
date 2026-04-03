@@ -1,0 +1,28 @@
+{
+  "agentId": "AGT-NG-INS-001",
+  "agentCode": "AIICO-LAG-001",
+  "agentName": "Victoria Island Office",
+  "businessName": "AIICO Insurance - Victoria Island Office",
+  "agentType": 8,
+  "status": 0,
+  "phoneNumber": "+2348080006001",
+  "email": "aiico.vi@example.ng",
+  "location": "Victoria Island, Lagos, Nigeria",
+  "country": "Nigeria",
+  "currency": "NGN",
+  "dailyCashInLimit": 5000000.0,
+  "dailyCashOutLimit": 3000000.0,
+  "transactionLimit": 500000.0,
+  "bankName": "Access Bank Nigeria",
+  "settlementAccount": "3070300006",
+  "onboardedDate": "2024-01-15T00:00:00",
+  "commissionRate": 2.0,
+  "authorisedServices": [
+    "Cash In",
+    "Cash Out",
+    "Insurance Premium Payment",
+    "Insurance Policy Issuance",
+    "Bill Payment",
+    "Balance Inquiry"
+  ]
+}

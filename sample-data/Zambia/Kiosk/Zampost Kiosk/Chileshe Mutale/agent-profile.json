@@ -1,0 +1,27 @@
+{
+  "agentId": "AGT-ZM-KI-001",
+  "agentCode": "KIOSK-LUS-001",
+  "agentName": "Chileshe Mutale",
+  "businessName": "Zampost Kiosk - Chileshe Mutale",
+  "agentType": 2,
+  "status": 0,
+  "phoneNumber": "+260977111001",
+  "email": "chileshe.mutale@example.co.zm",
+  "location": "Kamwala Market, Lusaka, Zambia",
+  "country": "Zambia",
+  "currency": "ZMW",
+  "dailyCashInLimit": 80000.0,
+  "dailyCashOutLimit": 50000.0,
+  "transactionLimit": 8000.0,
+  "bankName": "Zambia National Commercial Bank",
+  "settlementAccount": "6300200002",
+  "onboardedDate": "2024-03-10T00:00:00",
+  "commissionRate": 1.5,
+  "authorisedServices": [
+    "Cash In",
+    "Cash Out",
+    "Airtime Purchase",
+    "Balance Inquiry",
+    "Mini Statement"
+  ]
+}

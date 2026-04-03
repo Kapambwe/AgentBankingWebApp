@@ -1,0 +1,28 @@
+{
+  "agentId": "AGT-KE-MM-001",
+  "agentCode": "MPESA-KE-KSM-001",
+  "agentName": "James Mwangi",
+  "businessName": "Mwangi M-Pesa Agent",
+  "agentType": 4,
+  "status": 0,
+  "phoneNumber": "+254722456789",
+  "email": "james.mwangi@example.co.ke",
+  "location": "Kisumu, Kenya",
+  "country": "Kenya",
+  "currency": "KES",
+  "dailyCashInLimit": 350000.00,
+  "dailyCashOutLimit": 200000.00,
+  "transactionLimit": 35000.00,
+  "bankName": "Safaricom M-Pesa",
+  "settlementAccount": "0060987654",
+  "onboardedDate": "2024-02-14T00:00:00",
+  "commissionRate": 1.5,
+  "authorisedServices": [
+    "Cash In",
+    "Cash Out",
+    "Bill Payment",
+    "Airtime Purchase",
+    "Balance Inquiry",
+    "Mini Statement"
+  ]
+}

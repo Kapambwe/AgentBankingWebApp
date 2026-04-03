@@ -1,0 +1,13 @@
+{
+  "agentId": "AGT-UG-SM-001",
+  "agentCode": "CAR-KLA-001",
+  "currency": "UGX",
+  "currentBalance": 12000000.0,
+  "minimumBalance": 1500000.0,
+  "maximumBalance": 80000000.0,
+  "dailyCashInUsed": 7500000.0,
+  "dailyCashOutUsed": 4900000.0,
+  "dailyCashInLimit": 30000000.0,
+  "dailyCashOutLimit": 20000000.0,
+  "lastUpdated": "2026-03-05T10:00:00"
+}

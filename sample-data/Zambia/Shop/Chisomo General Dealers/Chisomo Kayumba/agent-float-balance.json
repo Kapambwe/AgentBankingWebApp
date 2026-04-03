@@ -1,0 +1,13 @@
+{
+  "agentId": "AGT-ZM-SH-001",
+  "agentCode": "SHOP-LUS-001",
+  "currency": "ZMW",
+  "currentBalance": 22000.0,
+  "minimumBalance": 2500.0,
+  "maximumBalance": 120000.0,
+  "dailyCashInUsed": 14500.0,
+  "dailyCashOutUsed": 9800.0,
+  "dailyCashInLimit": 60000.0,
+  "dailyCashOutLimit": 40000.0,
+  "lastUpdated": "2026-03-05T10:00:00"
+}

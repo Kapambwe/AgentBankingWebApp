@@ -1,0 +1,13 @@
+{
+  "agentId": "AGT-NG-KI-001",
+  "agentCode": "KIOSK-LAG-001",
+  "currency": "NGN",
+  "currentBalance": 1100000.0,
+  "minimumBalance": 120000.0,
+  "maximumBalance": 7000000.0,
+  "dailyCashInUsed": 680000.0,
+  "dailyCashOutUsed": 450000.0,
+  "dailyCashInLimit": 3000000.0,
+  "dailyCashOutLimit": 2000000.0,
+  "lastUpdated": "2026-03-05T10:00:00"
+}

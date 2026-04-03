@@ -1,0 +1,13 @@
+{
+  "agentId": "AGT-KE-MM-001",
+  "agentCode": "MPESA-KE-KSM-001",
+  "currency": "KES",
+  "currentBalance": 95000.00,
+  "minimumBalance": 10000.00,
+  "maximumBalance": 600000.00,
+  "dailyCashInUsed": 68000.00,
+  "dailyCashOutUsed": 42000.00,
+  "dailyCashInLimit": 350000.00,
+  "dailyCashOutLimit": 200000.00,
+  "lastUpdated": "2026-03-05T09:55:00"
+}

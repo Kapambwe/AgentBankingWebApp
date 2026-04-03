@@ -1,0 +1,52 @@
+{
+  "agentId": "AGT-KE-INS-001",
+  "agentCode": "JUB-NBI-001",
+  "agentName": "Nairobi CBD Branch",
+  "country": "Kenya",
+  "institutionType": "Insurance",
+  "institutionName": "Jubilee Insurance Kenya",
+  "currency": "KES",
+  "period": "2026-Q1",
+  "revenue": {
+    "cashInFees": 60000.0,
+    "cashOutFees": 38000.0,
+    "billPaymentFees": 15000.0,
+    "airtimeSales": 0.0,
+    "insurancePremiumCommissions": 260000.0,
+    "commissions": 240000.0,
+    "insurancePremiums": 0.0,
+    "total": 613000.0
+  },
+  "expenses": {
+    "floatManagementCosts": 14000.0,
+    "operationalCosts": 9500.0,
+    "staffCosts": 30000.0,
+    "rentalCosts": 16250.0,
+    "total": 69750.0
+  },
+  "profit": {
+    "grossProfit": 543250.0,
+    "netProfit": 543250.0,
+    "profitMarginPercent": 88.62
+  },
+  "monthlyBreakdown": [
+    {
+      "month": "Jan",
+      "revenue": 185000.0,
+      "expenses": 22500.0,
+      "profit": 162500.0
+    },
+    {
+      "month": "Feb",
+      "revenue": 197000.0,
+      "expenses": 23250.0,
+      "profit": 173750.0
+    },
+    {
+      "month": "Mar",
+      "revenue": 231000.0,
+      "expenses": 24000.0,
+      "profit": 207000.0
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "agentId": "AGT-MW-KI-001",
+  "agentCode": "KIOSK-LIL-001",
+  "agentName": "Mphatso Chirwa",
+  "country": "Malawi",
+  "institutionType": "Kiosk",
+  "institutionName": "Malawi Posts Kiosk",
+  "currency": "MWK",
+  "period": "2026-Q1",
+  "revenue": {
+    "cashInFees": 152000.0,
+    "cashOutFees": 108000.0,
+    "billPaymentFees": 0.0,
+    "airtimeSales": 22000.0,
+    "commissions": 360000.0,
+    "insurancePremiums": 0.0,
+    "total": 642000.0
+  },
+  "expenses": {
+    "floatManagementCosts": 24000.0,
+    "operationalCosts": 16000.0,
+    "staffCosts": 48000.0,
+    "rentalCosts": 20000.0,
+    "total": 108000.0
+  },
+  "profit": {
+    "grossProfit": 534000.0,
+    "netProfit": 534000.0,
+    "profitMarginPercent": 83.18
+  },
+  "monthlyBreakdown": [
+    {
+      "month": "Jan",
+      "revenue": 196000.0,
+      "expenses": 34000.0,
+      "profit": 162000.0
+    },
+    {
+      "month": "Feb",
+      "revenue": 208000.0,
+      "expenses": 36000.0,
+      "profit": 172000.0
+    },
+    {
+      "month": "Mar",
+      "revenue": 238000.0,
+      "expenses": 38000.0,
+      "profit": 200000.0
+    }
+  ]
+}

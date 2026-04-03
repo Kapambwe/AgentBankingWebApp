@@ -1,0 +1,28 @@
+{
+  "agentId": "AGT-ZM-INS-001",
+  "agentCode": "ZSIC-LUS-001",
+  "agentName": "Cairo Road Branch",
+  "businessName": "ZSIC Life - Cairo Road Branch",
+  "agentType": 8,
+  "status": 0,
+  "phoneNumber": "+260966555001",
+  "email": "zsic.cairoroad@example.co.zm",
+  "location": "Cairo Road, Lusaka, Zambia",
+  "country": "Zambia",
+  "currency": "ZMW",
+  "dailyCashInLimit": 100000.0,
+  "dailyCashOutLimit": 60000.0,
+  "transactionLimit": 10000.0,
+  "bankName": "First National Bank Zambia",
+  "settlementAccount": "6700200006",
+  "onboardedDate": "2024-03-01T00:00:00",
+  "commissionRate": 2.0,
+  "authorisedServices": [
+    "Cash In",
+    "Cash Out",
+    "Insurance Premium Payment",
+    "Insurance Policy Issuance",
+    "Bill Payment",
+    "Balance Inquiry"
+  ]
+}

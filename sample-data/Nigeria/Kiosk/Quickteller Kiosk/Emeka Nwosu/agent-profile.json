@@ -1,0 +1,27 @@
+{
+  "agentId": "AGT-NG-KI-001",
+  "agentCode": "KIOSK-LAG-001",
+  "agentName": "Emeka Nwosu",
+  "businessName": "Quickteller Kiosk - Emeka Nwosu",
+  "agentType": 2,
+  "status": 0,
+  "phoneNumber": "+2348040002001",
+  "email": "emeka.nwosu@example.ng",
+  "location": "Computer Village, Ikeja, Lagos, Nigeria",
+  "country": "Nigeria",
+  "currency": "NGN",
+  "dailyCashInLimit": 3000000.0,
+  "dailyCashOutLimit": 2000000.0,
+  "transactionLimit": 300000.0,
+  "bankName": "Zenith Bank Nigeria",
+  "settlementAccount": "3030300002",
+  "onboardedDate": "2024-02-20T00:00:00",
+  "commissionRate": 1.5,
+  "authorisedServices": [
+    "Cash In",
+    "Cash Out",
+    "Airtime Purchase",
+    "Balance Inquiry",
+    "Mini Statement"
+  ]
+}

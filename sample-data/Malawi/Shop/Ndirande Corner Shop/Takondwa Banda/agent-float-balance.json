@@ -1,0 +1,13 @@
+{
+  "agentId": "AGT-MW-SH-001",
+  "agentCode": "SHOP-BLN-001",
+  "currency": "MWK",
+  "currentBalance": 420000.0,
+  "minimumBalance": 50000.0,
+  "maximumBalance": 2500000.0,
+  "dailyCashInUsed": 275000.0,
+  "dailyCashOutUsed": 180000.0,
+  "dailyCashInLimit": 1200000.0,
+  "dailyCashOutLimit": 750000.0,
+  "lastUpdated": "2026-03-05T10:00:00"
+}

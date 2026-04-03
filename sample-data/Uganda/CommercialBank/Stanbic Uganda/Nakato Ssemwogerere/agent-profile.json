@@ -1,0 +1,30 @@
+{
+  "agentId": "AGT-UG-CB-001",
+  "agentCode": "STB-UG-KLA-001",
+  "agentName": "Nakato Ssemwogerere",
+  "businessName": "Ssemwogerere Financial Hub",
+  "agentType": 1,
+  "status": 0,
+  "phoneNumber": "+256702345678",
+  "email": "nakato.ssemwogerere@example.co.ug",
+  "location": "Kampala, Uganda",
+  "country": "Uganda",
+  "currency": "UGX",
+  "dailyCashInLimit": 20000000.00,
+  "dailyCashOutLimit": 12000000.00,
+  "transactionLimit": 2000000.00,
+  "bankName": "Stanbic Bank Uganda",
+  "settlementAccount": "9000234567",
+  "onboardedDate": "2024-03-01T00:00:00",
+  "commissionRate": 1.5,
+  "authorisedServices": [
+    "Cash In",
+    "Cash Out",
+    "Bill Payment",
+    "Airtime Purchase",
+    "Balance Inquiry",
+    "Mini Statement",
+    "Account Opening",
+    "Loan Repayment"
+  ]
+}

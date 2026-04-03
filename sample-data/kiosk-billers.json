@@ -1,0 +1,22 @@
+[
+  { "code": "ZESCO",    "name": "ZESCO (Electricity)",          "category": "Utilities" },
+  { "code": "LWSC",     "name": "Lusaka Water & Sewerage",       "category": "Utilities" },
+  { "code": "NWSC",     "name": "National Water Supply Corp",    "category": "Utilities" },
+  { "code": "AIRTEL",   "name": "Airtel Money",                  "category": "Mobile Money" },
+  { "code": "MTN",      "name": "MTN Mobile Money",              "category": "Mobile Money" },
+  { "code": "ZAMTEL",   "name": "Zamtel Mobile Money (Kwacha)",  "category": "Mobile Money" },
+  { "code": "STARTIMES","name": "StarTimes TV",                  "category": "Entertainment" },
+  { "code": "DSTV",     "name": "DSTV / MultiChoice",            "category": "Entertainment" },
+  { "code": "GOTV",     "name": "GOtv",                          "category": "Entertainment" },
+  { "code": "ZRA",      "name": "ZRA Tax Payment",               "category": "Government" },
+  { "code": "NRC",      "name": "National Road Fund Agency",     "category": "Government" },
+  { "code": "RATES",    "name": "Lusaka City Council Rates",     "category": "Government" },
+  { "code": "NAPSA",    "name": "NAPSA Pension Contributions",   "category": "Government" },
+  { "code": "NHIMA",    "name": "NHIMA Health Insurance",        "category": "Government" },
+  { "code": "SCHOOL",   "name": "School Fees",                   "category": "Education" },
+  { "code": "UNZA",     "name": "UNZA University Fees",          "category": "Education" },
+  { "code": "CBU",      "name": "Copperbelt University Fees",    "category": "Education" },
+  { "code": "ZANACO",   "name": "ZANACO Loan Repayment",         "category": "Finance" },
+  { "code": "FNB",      "name": "FNB Zambia Loan Repayment",     "category": "Finance" },
+  { "code": "STANBIC",  "name": "Stanbic Bank Loan Repayment",   "category": "Finance" }
+]

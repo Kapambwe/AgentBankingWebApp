@@ -1,0 +1,13 @@
+{
+  "agentId": "AGT-MW-KI-001",
+  "agentCode": "KIOSK-LIL-001",
+  "currency": "MWK",
+  "currentBalance": 540000.0,
+  "minimumBalance": 60000.0,
+  "maximumBalance": 3000000.0,
+  "dailyCashInUsed": 340000.0,
+  "dailyCashOutUsed": 220000.0,
+  "dailyCashInLimit": 1500000.0,
+  "dailyCashOutLimit": 900000.0,
+  "lastUpdated": "2026-03-05T10:00:00"
+}

@@ -1,0 +1,13 @@
+{
+  "agentId": "AGT-NG-SH-001",
+  "agentCode": "SHOP-ABJ-001",
+  "currency": "NGN",
+  "currentBalance": 850000.0,
+  "minimumBalance": 100000.0,
+  "maximumBalance": 6000000.0,
+  "dailyCashInUsed": 550000.0,
+  "dailyCashOutUsed": 360000.0,
+  "dailyCashInLimit": 2500000.0,
+  "dailyCashOutLimit": 1600000.0,
+  "lastUpdated": "2026-03-05T10:00:00"
+}

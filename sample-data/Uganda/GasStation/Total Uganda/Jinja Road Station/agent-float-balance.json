@@ -1,0 +1,13 @@
+{
+  "agentId": "AGT-UG-GS-001",
+  "agentCode": "GAS-KLA-001",
+  "currency": "UGX",
+  "currentBalance": 8800000.0,
+  "minimumBalance": 1100000.0,
+  "maximumBalance": 60000000.0,
+  "dailyCashInUsed": 5500000.0,
+  "dailyCashOutUsed": 3600000.0,
+  "dailyCashInLimit": 22000000.0,
+  "dailyCashOutLimit": 15000000.0,
+  "lastUpdated": "2026-03-05T10:00:00"
+}

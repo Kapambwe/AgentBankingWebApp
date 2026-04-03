@@ -1,0 +1,13 @@
+{
+  "agentId": "AGT-NG-IN-001",
+  "agentCode": "IND-KAN-001",
+  "currency": "NGN",
+  "currentBalance": 420000.0,
+  "minimumBalance": 50000.0,
+  "maximumBalance": 3000000.0,
+  "dailyCashInUsed": 270000.0,
+  "dailyCashOutUsed": 175000.0,
+  "dailyCashInLimit": 1200000.0,
+  "dailyCashOutLimit": 800000.0,
+  "lastUpdated": "2026-03-05T10:00:00"
+}

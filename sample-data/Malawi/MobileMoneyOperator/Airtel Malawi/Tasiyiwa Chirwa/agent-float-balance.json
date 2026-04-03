@@ -1,0 +1,13 @@
+{
+  "agentId": "AGT-MW-MM-001",
+  "agentCode": "AIRTEL-MW-BLN-001",
+  "currency": "MWK",
+  "currentBalance": 480000.00,
+  "minimumBalance": 50000.00,
+  "maximumBalance": 3000000.00,
+  "dailyCashInUsed": 340000.00,
+  "dailyCashOutUsed": 210000.00,
+  "dailyCashInLimit": 1800000.00,
+  "dailyCashOutLimit": 1000000.00,
+  "lastUpdated": "2026-03-05T09:30:00"
+}

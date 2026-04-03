@@ -1,0 +1,51 @@
+{
+  "agentId": "AGT-MW-SM-001",
+  "agentCode": "CHIP-BLN-001",
+  "agentName": "Limbe Branch",
+  "country": "Malawi",
+  "institutionType": "Supermarket",
+  "institutionName": "Chipiku Stores",
+  "currency": "MWK",
+  "period": "2026-Q1",
+  "revenue": {
+    "cashInFees": 480000.0,
+    "cashOutFees": 350000.0,
+    "billPaymentFees": 150000.0,
+    "airtimeSales": 60000.0,
+    "commissions": 1100000.0,
+    "insurancePremiums": 0.0,
+    "total": 2140000.0
+  },
+  "expenses": {
+    "floatManagementCosts": 210000.0,
+    "operationalCosts": 150000.0,
+    "staffCosts": 0.0,
+    "rentalCosts": 15000.0,
+    "total": 375000.0
+  },
+  "profit": {
+    "grossProfit": 1765000.0,
+    "netProfit": 1765000.0,
+    "profitMarginPercent": 82.48
+  },
+  "monthlyBreakdown": [
+    {
+      "month": "Jan",
+      "revenue": 640000.0,
+      "expenses": 120000.0,
+      "profit": 520000.0
+    },
+    {
+      "month": "Feb",
+      "revenue": 680000.0,
+      "expenses": 125000.0,
+      "profit": 555000.0
+    },
+    {
+      "month": "Mar",
+      "revenue": 820000.0,
+      "expenses": 130000.0,
+      "profit": 690000.0
+    }
+  ]
+}

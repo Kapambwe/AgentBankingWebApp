@@ -1,0 +1,27 @@
+{
+  "agentId": "AGT-MW-GS-001",
+  "agentCode": "GAS-BLN-001",
+  "agentName": "Limbe Service Station",
+  "businessName": "BP Malawi - Limbe Service Station",
+  "agentType": 6,
+  "status": 0,
+  "phoneNumber": "+265991111001",
+  "email": "bp.limbe@example.co.mw",
+  "location": "Chilobwe Road, Limbe, Malawi",
+  "country": "Malawi",
+  "currency": "MWK",
+  "dailyCashInLimit": 3000000.0,
+  "dailyCashOutLimit": 2000000.0,
+  "transactionLimit": 300000.0,
+  "bankName": "Standard Bank Malawi",
+  "settlementAccount": "1060300005",
+  "onboardedDate": "2024-03-15T00:00:00",
+  "commissionRate": 1.0,
+  "authorisedServices": [
+    "Cash In",
+    "Cash Out",
+    "Bill Payment",
+    "Airtime Purchase",
+    "Balance Inquiry"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "agentId": "AGT-KE-SM-001",
+  "agentCode": "NAIV-NBI-001",
+  "agentName": "Karen Branch",
+  "businessName": "Naivas Supermarket - Karen Branch",
+  "agentType": 3,
+  "status": 0,
+  "phoneNumber": "+254700200001",
+  "email": "naivas.karen@example.co.ke",
+  "location": "Karen Shopping Centre, Nairobi, Kenya",
+  "country": "Kenya",
+  "currency": "KES",
+  "dailyCashInLimit": 800000.0,
+  "dailyCashOutLimit": 500000.0,
+  "transactionLimit": 80000.0,
+  "bankName": "Equity Bank Kenya",
+  "settlementAccount": "0050200001",
+  "onboardedDate": "2023-09-01T00:00:00",
+  "commissionRate": 1.0,
+  "authorisedServices": [
+    "Cash In",
+    "Cash Out",
+    "Bill Payment",
+    "Airtime Purchase",
+    "Balance Inquiry",
+    "Account Opening"
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "agentId": "AGT-KE-KI-001",
+  "agentCode": "KIOSK-NBI-001",
+  "currency": "KES",
+  "currentBalance": 108000.0,
+  "minimumBalance": 12000.0,
+  "maximumBalance": 700000.0,
+  "dailyCashInUsed": 68000.0,
+  "dailyCashOutUsed": 45000.0,
+  "dailyCashInLimit": 300000.0,
+  "dailyCashOutLimit": 180000.0,
+  "lastUpdated": "2026-03-05T10:00:00"
+}

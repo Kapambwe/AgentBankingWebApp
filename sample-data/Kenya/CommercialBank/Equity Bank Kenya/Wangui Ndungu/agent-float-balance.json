@@ -1,0 +1,13 @@
+{
+  "agentId": "AGT-KE-CB-001",
+  "agentCode": "EQB-KE-NBI-001",
+  "currency": "KES",
+  "currentBalance": 185000.00,
+  "minimumBalance": 20000.00,
+  "maximumBalance": 1000000.00,
+  "dailyCashInUsed": 112000.00,
+  "dailyCashOutUsed": 76000.00,
+  "dailyCashInLimit": 500000.00,
+  "dailyCashOutLimit": 300000.00,
+  "lastUpdated": "2026-03-05T10:20:00"
+}

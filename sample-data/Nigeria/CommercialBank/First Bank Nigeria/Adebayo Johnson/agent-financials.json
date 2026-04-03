@@ -1,0 +1,36 @@
+{
+  "agentId": "AGT-NG-CB-001",
+  "agentCode": "FBN-NG-LAG-001",
+  "agentName": "Johnson Financial Services",
+  "country": "Nigeria",
+  "institutionType": "CommercialBank",
+  "institutionName": "First Bank of Nigeria",
+  "currency": "NGN",
+  "period": "2026-Q1",
+  "revenue": {
+    "cashInFees": 185000.00,
+    "cashOutFees": 132000.00,
+    "billPaymentFees": 58000.00,
+    "airtimeSales": 25000.00,
+    "commissions": 400000.00,
+    "insurancePremiums": 0.00,
+    "total": 800000.00
+  },
+  "expenses": {
+    "floatManagementCosts": 55000.00,
+    "operationalCosts": 40000.00,
+    "staffCosts": 150000.00,
+    "rentalCosts": 75000.00,
+    "total": 320000.00
+  },
+  "profit": {
+    "grossProfit": 480000.00,
+    "netProfit": 480000.00,
+    "profitMarginPercent": 60.00
+  },
+  "monthlyBreakdown": [
+    { "month": "Jan", "revenue": 248000.00, "expenses": 102000.00, "profit": 146000.00 },
+    { "month": "Feb", "revenue": 265000.00, "expenses": 107000.00, "profit": 158000.00 },
+    { "month": "Mar", "revenue": 287000.00, "expenses": 111000.00, "profit": 176000.00 }
+  ]
+}
